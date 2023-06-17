@@ -13,7 +13,7 @@ Takım Unity 59
 
 ## Ürün İsmi
 
---The Incredible Samurai--
+--The Samurai: Path of Honor--
 
 ## Product Backlog URL
 
