@@ -65,6 +65,7 @@ Alınan kararlar: Oyun hakkında fikirler netleşmiştir. Grup içi rol dağıl�
 - **Sprint Retrospective:**
   - Bu sprintten alınan dersler sonucunda bir sonraki sprint için proje konusunda daha seri olunması ve kişisel fikir ayrılıkları ile mükemmeliyetçilik dolayısıyla fazla zaman kaybedilmemesi gerektiği sonucuna varılmıştır.
   - Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
+  - GitHub, GitDesktop ve GitLFS kullanımındaki hatalardan önemli dersler çıkartılmıştır.
  
 
 
