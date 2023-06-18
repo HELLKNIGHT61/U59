@@ -73,6 +73,6 @@ Alınan kararlar: Oyun hakkında fikirler netleşmiştir. Grup içi rol dağıl�
 
 ## Product Backlog URL
 
-[Unity Team 59 Miro Backlog Board](https://miro.com/app/board/uXjVM9k88dc=/?share_link_id=691919144035)
+[Unity Team 59 Miro Backlog Board](https://miro.com/app/board/uXjVM9k88dc=/?share_link_id=49433068584)
 
 ---
