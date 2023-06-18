@@ -21,7 +21,7 @@ Takım Unity 59
 
 ## Ürün Açıklaması
 
-Doğduğu köy ve onu eğiten ustası düşmanlar tarafından ele geçirilen samurai, köyünü geri almak ve düşmandan intikam almak için savaşır. Bu proje samurai mekaniklerinin olduğu Dark Souls vari bir üçüncü şahıs RPG, Macera ve Aksiyon temalı bir oyundur.
+Doğduğu köy ve onu eğiten ustası düşmanlar tarafından ele geçirilen samurai, köyünü geri almak ve düşmandan intikam almak için savaşır. Bu proje samurai mekaniklerinin olduğu Dark Souls vari bir üçüncü şahıs, RPG, Macera ve Aksiyon temalı oyundur.
 
 ## Ürün Özellikleri
 
