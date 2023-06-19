@@ -46,6 +46,9 @@ Doğduğu köy ve onu eğiten ustası düşmanlar tarafından ele geçirilen sam
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
 
+- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+
+
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
 
