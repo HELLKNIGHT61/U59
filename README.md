@@ -91,7 +91,7 @@ Alınan kararlar: Oyun hakkında fikirler netleşmiştir. Grup içi rol dağıl�
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı txt olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](Adres)
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı txt olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://github.com/HELLKNIGHT61/U59/blob/main/ProjectManagement/Sprint2Documents/DailyScrumMeetingNotesSprint2.txt)
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1](https://github.com/HELLKNIGHT61/U59/blob/main/ProjectManagement/Sprint2Documents/backlog1.png) 
