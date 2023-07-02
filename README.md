@@ -94,13 +94,13 @@ Alınan kararlar: Oyun hakkında fikirler netleşmiştir. Grup içi rol dağıl�
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı txt olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](Adres)
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](Adres) 
+![Backlog 1](https://github.com/HELLKNIGHT61/U59/blob/main/ProjectManagement/Sprint2Documents/backlog1.png) 
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](Adres)
-  ![Screenshot 2](Adres)
-  ![Screenshot 3](Adres)
+  ![Screenshot 1](https://github.com/HELLKNIGHT61/U59/blob/main/ProjectManagement/Sprint2Documents/product1.png)
+  ![Screenshot 2](https://github.com/HELLKNIGHT61/U59/blob/main/ProjectManagement/Sprint2Documents/product2.png)
+  ![Screenshot 3](https://github.com/HELLKNIGHT61/U59/blob/main/ProjectManagement/Sprint2Documents/product3.png)
 - **Sprint Review**: 
 Alınan kararlar: Harita tasarımı netleştirilmiş ve büyük ölçüde tamamlanmıştır. Kullanılacak olan assetler kesinleştirilmiştir. Mekanikler ve animasyonların yarıya yakını tamamlanmıştır. Üçüncü şahıs omuz hizalı kamera açısı oluşturulmuştur.
 
