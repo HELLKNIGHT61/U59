@@ -1,18 +1,45 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class UIMain : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    [Header("UIPages")]
+    public GameObject settingsScreen;
+    public GameObject creditsScreen;
+    public GameObject mainScreen;
+
+
+    public void StartGame()
     {
-        
+        Application.LoadLevel("levelIsmi");
     }
 
-    // Update is called once per frame
-    void Update()
+    public void Settings()
     {
-        
+        mainScreen.SetActive(false);
+        settingsScreen.SetActive(true);
     }
+    public void set2Menu()
+    {
+        mainScreen.SetActive(true);
+        settingsScreen.SetActive(false);
+    }
+    public void Credits()
+    {
+        mainScreen.SetActive(false);
+        creditsScreen.SetActive(true);
+    }
+
+    public void cre2Menu()
+    {
+        mainScreen.SetActive(true);
+        creditsScreen.SetActive(false);
+    }
+    public void Exit()
+    {
+        Application.Quit();
+    }
+
 }
