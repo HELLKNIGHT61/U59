@@ -79,3 +79,42 @@ Alınan kararlar: Oyun hakkında fikirler netleşmiştir. Grup içi rol dağıl�
 [Unity Team 59 Miro Backlog Board](https://miro.com/app/board/uXjVM9k88dc=/?share_link_id=49433068584)
 
 ---
+
+# Sprint 2
+
+- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+
+
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı txt olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://github.com/HELLKNIGHT61/U59/blob/main/ProjectManagement/Sprint2Documents/DailyScrumMeetingNotesSprint2.txt)
+
+- **Sprint board update**: Sprint board screenshotları: 
+![Backlog 1](https://github.com/HELLKNIGHT61/U59/blob/main/ProjectManagement/Sprint2Documents/backlog1.png) 
+
+
+- **Ürün Durumu**: Ekran görüntüleri:
+  ![Screenshot 1](https://github.com/HELLKNIGHT61/U59/blob/main/ProjectManagement/Sprint2Documents/product1.png)
+  ![Screenshot 2](https://github.com/HELLKNIGHT61/U59/blob/main/ProjectManagement/Sprint2Documents/product2.png)
+  ![Screenshot 3](https://github.com/HELLKNIGHT61/U59/blob/main/ProjectManagement/Sprint2Documents/product3.png)
+- **Sprint Review**: 
+Alınan kararlar: Harita tasarımı netleştirilmiş ve büyük ölçüde tamamlanmıştır. Kullanılacak olan assetler kesinleştirilmiştir. Mekanikler ve animasyonların yarıya yakını tamamlanmıştır. Üçüncü şahıs omuz hizalı kamera açısı oluşturulmuştur.
+
+- **Sprint Retrospective:**
+  - Bayram nedeniyle ve bazı takım üyelerinin özel hayatlarındaki engellenemeyen aksi durumlar nedeniyle ilerlemede biraz yavaşlama olmuştur.
+  - Takım üyelerinin aksilik yaşamakta olan diğer takım üyelerinin görevlerine bu tip durumlarda yardım etmesi gerektiği anlaşılmıştır.
+  - Üçüncü sprintte daha fazla aktiflik gösterilmesi gerektiği anlaşılmıştır.
+ 
+
+
+---
+
+## Product Backlog URL
+
+[Unity Team 59 Miro Backlog Board](https://miro.com/app/board/uXjVM9k88dc=/?share_link_id=49433068584)
+
+---
