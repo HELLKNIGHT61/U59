@@ -108,6 +108,12 @@ namespace StarterAssets
 
         private const float _threshold = 0.01f;
 
+        public float cooldownTime =  2f;
+        private float nextFireTime = 0f;
+        public static int noOfClicks = 0;
+        float lastClickedTime = 0;
+        float maxComboDelay = 1;
+
         private bool _hasAnimator;
 
         private bool IsCurrentDeviceMouse
@@ -154,12 +160,52 @@ namespace StarterAssets
 
         private void Update()
         {
+             if(_animator.GetCurrentAnimatorStateInfo(0).normalizedTime > 0.7f && _animator.GetCurrentAnimatorStateInfo(0).IsName("Attack1")){
+                _animator.SetBool("Attack1", false);
+            }
+            if(_animator.GetCurrentAnimatorStateInfo(0).normalizedTime > 0.7f && _animator.GetCurrentAnimatorStateInfo(0).IsName("Attack2")){
+                _animator.SetBool("Attack2", false);
+            }
+            if(_animator.GetCurrentAnimatorStateInfo(0).normalizedTime > 0.7f && _animator.GetCurrentAnimatorStateInfo(0).IsName("Attack3")){
+                _animator.SetBool("Attack3", false);
+                noOfClicks = 0;
+            }
+
+            if(Time.time - lastClickedTime > maxComboDelay){
+                noOfClicks = 0;
+            }
+
+            if(Time.time > nextFireTime){
+                if(Input.GetMouseButtonDown(0)){
+                    OnClick();
+                }
+            }
             _hasAnimator = TryGetComponent(out _animator);
 
             JumpAndGravity();
             GroundedCheck();
             Move();
         }
+
+        void OnClick(){
+            lastClickedTime = Time.time;
+            noOfClicks += 1;
+            if(noOfClicks == 1){
+                _animator.SetBool("Attack1", true);
+            }
+            noOfClicks = Mathf.Clamp(noOfClicks, 0, 3);
+
+            if(noOfClicks >= 2 && _animator.GetCurrentAnimatorStateInfo(0).normalizedTime > 0.7f && _animator.GetCurrentAnimatorStateInfo(0).IsName("Attack1")){
+                _animator.SetBool("Attack1", false);
+                _animator.SetBool("Attack2", true);
+            }
+
+            if(noOfClicks >= 3 && _animator.GetCurrentAnimatorStateInfo(0).normalizedTime > 0.7f && _animator.GetCurrentAnimatorStateInfo(0).IsName("Attack2")){
+                _animator.SetBool("Attack2", false);
+                _animator.SetBool("Attack3", true);
+            }
+
+    }
 
         private void LateUpdate()
         {
