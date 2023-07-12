@@ -825,6 +825,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2122175454}
     m_Modifications:
+    - target: {fileID: 2405954504296986445, guid: 992a49f55c0edc444a3db5f3bf2e8a74,
+        type: 3}
+      propertyPath: m_text
+      value: SETTINGS
+      objectReference: {fileID: 0}
     - target: {fileID: 2476829603996120698, guid: 992a49f55c0edc444a3db5f3bf2e8a74,
         type: 3}
       propertyPath: m_Colors.m_NormalColor.b
@@ -1638,6 +1643,11 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: -170
       objectReference: {fileID: 0}
+    - target: {fileID: 2755024388104788919, guid: 3f2742ac92ed15b4cbdf50a1966c4438,
+        type: 3}
+      propertyPath: m_text
+      value: 'THE SAMURAI : Path Of Honor'
+      objectReference: {fileID: 0}
     - target: {fileID: 2820786834324613563, guid: 3f2742ac92ed15b4cbdf50a1966c4438,
         type: 3}
       propertyPath: m_SizeDelta.x
@@ -1912,6 +1922,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8108298911840986226, guid: 3f2742ac92ed15b4cbdf50a1966c4438,
+        type: 3}
+      propertyPath: m_text
+      value: CREDITS
       objectReference: {fileID: 0}
     - target: {fileID: 8108298911840986226, guid: 3f2742ac92ed15b4cbdf50a1966c4438,
         type: 3}
