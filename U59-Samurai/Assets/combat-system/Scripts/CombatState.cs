@@ -66,11 +66,11 @@ public class CombatState : State
             stateMachine.ChangeState(character.standing);
         }
  
-        // if (attack)
-        // {
-        //     character.animator.SetTrigger("attack");
-        //     stateMachine.ChangeState(character.attacking);
-        // }
+        if (attack)
+        {
+            character.animator.SetTrigger("attack");
+            stateMachine.ChangeState(character.attacking);
+        }
     }
  
     public override void PhysicsUpdate()
