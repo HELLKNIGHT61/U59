@@ -343,6 +343,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c802431bd347aa14a969ada7a53fc0d4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  cooldownTime: 2
 --- !u!1 &388317500
 GameObject:
   m_ObjectHideFlags: 0
