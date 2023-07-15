@@ -8,6 +8,7 @@ TagManager:
   - Camera
   - Ground
   - Boss
+  - Enemy
   layers:
   - Default
   - TransparentFX
