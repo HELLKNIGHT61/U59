@@ -35,18 +35,22 @@ public class Turn : MonoBehaviour
             desiredRotation *= Quaternion.Euler(0f, rotationOffset, 0f);
 
             transform.rotation = desiredRotation;
-            Debug.Log("calisti");
+            
         }
         
 
         
     }
 
-    public void Shoot()
+    public void Shoot(GameObject player)
     {
-        
-        Rigidbody rb = Instantiate(projectile, projectilePoint.position, Quaternion.Euler(90f, 0f, 0f)).GetComponent<Rigidbody>();
+        player = GameObject.FindGameObjectWithTag("Player");
+        Vector3 direction = player.transform.position - transform.position;
+        Debug.Log(direction.x);
+        Rigidbody rb = Instantiate(projectile, projectilePoint.position, Quaternion.Euler(90f, -90f, 0f)).GetComponent<Rigidbody>();
         rb.AddForce(-transform.right * 50f, ForceMode.Impulse);
+
+
         
     }
 }
