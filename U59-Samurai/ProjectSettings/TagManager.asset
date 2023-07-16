@@ -8,6 +8,8 @@ TagManager:
   - Camera
   - Ground
   - Boss
+  - Enemy
+  - WayPoints
   layers:
   - Default
   - TransparentFX
