@@ -42,15 +42,15 @@ public class Turn : MonoBehaviour
         
     }
 
-    public void Shoot(GameObject player)
+    public void Shoot(GameObject enemy)
     {
-        player = GameObject.FindGameObjectWithTag("Player");
-        Vector3 direction = player.transform.position - transform.position;
-        Debug.Log(direction.x);
-        Rigidbody rb = Instantiate(projectile, projectilePoint.position, Quaternion.Euler(90f, -90f, 0f)).GetComponent<Rigidbody>();
+        enemy = GameObject.FindGameObjectWithTag("Enemy");
+
+        Debug.Log(enemy.transform.rotation.eulerAngles.y);
+        Rigidbody rb = Instantiate(projectile, projectilePoint.position, Quaternion.Euler(90f, enemy.transform.rotation.eulerAngles.y - 90f, 0f)).GetComponent<Rigidbody>();
         rb.AddForce(-transform.right * 50f, ForceMode.Impulse);
 
 
-        
+
     }
 }
