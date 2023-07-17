@@ -1,0 +1,1208 @@
+3.06.2023 12:34 - ‎~ ... "KAZANAN BOOTCAMP TAKIMI U-59" grubunu oluşturdu
+3.06.2023 12:34 - Eklendiniz
+2.07.2023 19:56 - Alperen ELMAS: Arkadaşlar 2. Sprint ödevini tamamladım. Haberiniz olsun istedim. Bu arada yarın 20.00'de 3. Sprint buluşması olacak.
+2.07.2023 20:34 - +386 70 184 824: Tamamdir
+2.07.2023 20:34 - +386 70 184 824: Benim pc gelsin hicbir isim kalmiyo
+2.07.2023 20:34 - +386 70 184 824: 5inde son sinavim var zaten bu kaybettigim zamani telafi ederim gunde 8-10 saat ne gerekiyorsa yaparim
+4.07.2023 15:28 - Alperen ELMAS: Arkadaşlar ilk 2 ödevin ikisinden de tam (8) puan aldık. Bu arada isterseniz bugün 22.00 ya da 22.15 gibi son sprinti nasıl geçirebileceğimiz hakkında müsait olanlarla bir toplantı yapalım.
+4.07.2023 15:37 - +386 70 184 824: Tamamdir
+4.07.2023 15:37 - +386 70 184 824: Supermis
+4.07.2023 15:37 - +386 70 184 824: Benim bilgisayar geldi bugun
+4.07.2023 22:03 - +386 70 184 824: Toplaniyor muyuz
+4.07.2023 22:03 - +386 70 184 824: Ben geliyorum dc
+4.07.2023 22:04 - +90 532 176 24 50: Ben bugun katilamicam malesef
+4.07.2023 22:05 - Alperen ELMAS: Diğerleri?
+4.07.2023 22:05 - +386 70 184 824: Ben geliyorum
+4.07.2023 22:05 - +386 70 184 824: Dcye giriyorum 2 dkye
+4.07.2023 22:06 - +386 70 184 824: Gel biraz konusalim
+4.07.2023 22:06 - +386 70 184 824: Vaktin varsa
+4.07.2023 22:07 - Alperen ELMAS: Dcdeyim.
+4.07.2023 22:07 - +90 505 109 09 39: Ben disardayim mikrofon acamam ama dinleyebilirim
+5.07.2023 12:57 - +386 70 184 824: Arkadaslar karakter hazir hareketleri
+5.07.2023 12:57 - +386 70 184 824: Hareket animasyonlari da hazir
+5.07.2023 12:58 - +386 70 184 824: Simdi savas animasyonlarini yapiyorum
+5.07.2023 12:58 - +386 70 184 824: Kamera da hazir ufak detaylar eklencek sadece
+5.07.2023 12:58 - +386 70 184 824: Tuslamalari da hazirliyorum suanda
+5.07.2023 13:00 - +386 70 184 824: A ve W basinca hafif sol yaticak sekilde seyler ariyorum
+5.07.2023 13:00 - +386 70 184 824: Kamerayi ve savas combatlarini da tam olarak bitirince ne yapiyim
+5.07.2023 13:01 - +386 70 184 824: Dusmanlari hazirlamaya basliyim mi var mi o isi yapan
+5.07.2023 13:01 - +90 505 109 09 39: Eline saglik Ege🙏🏻
+5.07.2023 13:01 - +386 70 184 824: Egilme yatma falan eklemiyim diyorum
+5.07.2023 13:01 - +386 70 184 824: Savas kombatlarinda bug olmasin diye
+5.07.2023 13:02 - +386 70 184 824: Belki sadece egilme eklerim
+5.07.2023 13:02 - +90 505 109 09 39: Bence mantikli deneriz bug alirsak kaldiririz
+5.07.2023 13:05 - +386 70 184 824: Neyse egilme ekliycem suikast animasyonu bulursak zaman yetisirse ekleriz
+5.07.2023 13:05 - +386 70 184 824: Gizli yaklasma givi
+5.07.2023 13:42 - +386 70 184 824: <Medya dahil edilmedi>
+5.07.2023 13:42 - +386 70 184 824: Surdaki mirror x ekseninin oluyo
+5.07.2023 13:42 - +386 70 184 824: Bunu tam tersine nasil yapicaz
+5.07.2023 13:43 - +386 70 184 824: Geriye yurusun
+5.07.2023 14:00 - +386 70 184 824: Bir de ses isiyle kim ilgileniyordu adim sesleri hazir mi kodunu yazdim ekliyim
+5.07.2023 14:03 - Alperen ELMAS: Eğilme animasyonu belki dodge amaçlı olabilir ama suikast animasyonuna gerek yok bence. Animasyon hızını -1 yaparak (yürüme animasyonunun aynısını kullanıp) geriye yürüme de yapabilirsin.
+5.07.2023 14:04 - +386 70 184 824: O zaman cikartiyorum egilmeyi
+5.07.2023 14:04 - +386 70 184 824: Berbat yordu beni suanda
+5.07.2023 14:04 - +386 70 184 824: 500 satir kod yazdim yine hata aliyorum
+5.07.2023 14:04 - +386 70 184 824: <Medya dahil edilmedi>
+5.07.2023 14:04 - Alperen ELMAS: Ya da ileri geri giderek dodge yapsın yani mesafeyi arttırarak dodge yapsın. Eğilmeye gerek yok.
+5.07.2023 14:04 - +386 70 184 824: Dodge hareketi eklenir o kolay
+5.07.2023 14:05 - +386 70 184 824: Egilmeyi kaldiriyirum
+5.07.2023 14:05 - Alperen ELMAS: Tamamdır.
+5.07.2023 14:07 - +90 505 109 09 39: Ben birkac link atmistim 400 e yakin dinledim ama icine pek sinmediler Beyza bakacakti
+5.07.2023 14:07 - +386 70 184 824: Tamam suanda kimin gorevi ne
+5.07.2023 14:07 - +386 70 184 824: Biliyim ona gore ilerliyim
+5.07.2023 14:08 - Alperen ELMAS: Düşmanları ve karakterleri Ege ile Umut bölüm tasarımını ise ben yapacam diye anlaşmıştık.
+5.07.2023 14:08 - Alperen ELMAS: Animasyonlar Beyza demiştik.
+5.07.2023 14:08 - +90 505 109 09 39: Beyzada diye biliyorum
+5.07.2023 14:08 - Alperen ELMAS: UI Fatma demiştik.
+5.07.2023 14:08 - +386 70 184 824: Karakter animasyonlarini ben yaptim onda sorun yok
+5.07.2023 14:08 - +386 70 184 824: Dusman ve cevredekileri beyza yapar ya da benimkilere ekleme yapar
+5.07.2023 14:09 - +386 70 184 824: Bolum tasarimi nasil gidiyo
+5.07.2023 14:09 - +90 505 109 09 39: Aynen ses icin tam gorev yoktu ben yine de asset storelara baktim hatta yapay zekaya mi yaptirsak da demistim telife dusmemek icin <Bu mesaj düzenlendi>
+5.07.2023 14:10 - Alperen ELMAS: Harita zaten hazır çatıları şimdilik haritanın müsait bir yerine ekledim. Eğer siz modelleri gönderirseniz haritayla beraber onları da kullanıp bölüm yapacağım. <Bu mesaj düzenlendi>
+5.07.2023 14:28 - +386 70 184 824: <Medya dahil edilmedi>
+5.07.2023 14:28 - +386 70 184 824: Simdi detay gecislerini yapicam
+5.07.2023 14:28 - +386 70 184 824: Mesela A ve S basarsan kafasini soldan geriye bakicak sekilde geri yuruycek
+5.07.2023 14:33 - +90 532 176 24 50: Ege savas animasyonlarını yaparken olabildigince yorum satırı eklersen süper olur ben de ona göre ai kısmına bakarım
+5.07.2023 14:33 - +90 532 176 24 50: Eline sağlık çok iyi duruyo
+5.07.2023 14:33 - +386 70 184 824: Tamam eklerim yorum sagoll
+5.07.2023 14:33 - +386 70 184 824: Yarin baakrim savas animasyonlarina gibi bugun bunu sorunsuz hale getiriyim
+5.07.2023 14:34 - +90 532 176 24 50: Tamam ben de bakabilirim savas kismina
+5.07.2023 14:36 - +386 70 184 824: <Medya dahil edilmedi>
+5.07.2023 14:36 - +386 70 184 824: Capraz ozellikler de boyle durdu
+5.07.2023 14:36 - +386 70 184 824: Bence dumduz gitmesinden cok daha iyi
+5.07.2023 14:55 - +386 70 184 824: Bu karaktere kim kilic falan ekliycekti
+5.07.2023 14:55 - +386 70 184 824: Renk ayarlamalari vs
+5.07.2023 14:55 - +90 532 176 24 50: Ben texture eklemiştim
+5.07.2023 14:55 - +90 532 176 24 50: Kilic kismini da yaparim
+5.07.2023 14:56 - +386 70 184 824: Okay animasyonlari bitirince yollarim
+5.07.2023 15:43 - +386 70 184 824: <Medya dahil edilmedi>
+5.07.2023 15:43 - +386 70 184 824: K kamera toggle yaptim first person, third person arasi
+5.07.2023 16:12 - +386 70 184 824: <Medya dahil edilmedi>
+5.07.2023 16:12 - +386 70 184 824: Kapi acik oldugu halde gecmiyo
+5.07.2023 16:12 - +386 70 184 824: Tagler nasil olmali bilen vae mi
+5.07.2023 16:17 - +386 70 184 824: Cozdum
+5.07.2023 16:24 - +386 70 184 824: Terrainlerle kim ilgileniyo
+5.07.2023 16:24 - +386 70 184 824: Sun temple da terrain layerlarini ayarlamasi lazim yer cekimi eklenince problemle cikiyo
+5.07.2023 16:26 - +386 70 184 824: 2)agaclarin icinden geciliyo collider eklenmesi lazim
+5.07.2023 16:28 - +386 70 184 824: Bunu hallettim simdi tum agaclari secip mesh collider ekledim
+5.07.2023 16:28 - +386 70 184 824: Birisi terrainle ilgilensin terrain cok bozuk
+5.07.2023 17:32 - Alperen ELMAS: Ege sen benim branştakileri kendine pull yaptın mı?
+5.07.2023 17:45 - Alperen ELMAS: Bu arada Akademi'de Bootcamp sekmesinde fena olay var. Herkes Mustafa Orhan ismindeki birinin projesinin etikliğini tartışıyor.
+5.07.2023 17:46 - +386 70 184 824: Neden
+5.07.2023 17:46 - +386 70 184 824: Yok
+5.07.2023 17:46 - +386 70 184 824: Sende mi onlar
+5.07.2023 17:46 - +386 70 184 824: Cok merak ettim ogrenirsen yazar misin hshdhdhd
+5.07.2023 18:01 - Alperen ELMAS: Öğrenirsem yazarım tabi. Ben o zaman terraine materyal ekleyeyim. Sonra çatıları da oturtunca push yapayım.
+5.07.2023 18:01 - +90 532 176 24 50: Ben ögrendim jdjdjdjsjs
+5.07.2023 18:02 - Alperen ELMAS: Galiba projeye bootcamptan önce başlamış.
+5.07.2023 18:02 - +90 532 176 24 50: Bu mahmut onceden yaptigi projeyi playstore a koymus ve slack e yazmis projemiz bitti falan diye
+5.07.2023 18:02 - +90 532 176 24 50: Martta baslamis
+5.07.2023 18:03 - +90 532 176 24 50: Hatta ilk game jam zamaninda gorevleri yetistiremedigi icin bi mesaj atmis yardim istemis benim projem hazir bi el atin proje cope gitmesin diye hahshshshhs
+5.07.2023 18:04 - Alperen ELMAS: Peki sizce Akademi'nin kararı ne olacak?
+5.07.2023 18:04 - +90 532 176 24 50: Diskalifiye olurlar diye düşünüyorum
+5.07.2023 18:07 - Alperen ELMAS: Yazık ettiler kendilerine :) Belki son 10 gün sıfırdan birşey yapmaya hakkı verirler ama pek de zannetmiyorum. Gerçi birinci ve ikinci sprintte birşey demediler diyor ama belki Akademi henüz farkedemediği içindir.
+5.07.2023 18:20 - +90 532 176 24 50: Farkedilmeyecek gibi de değil aslında
+5.07.2023 18:20 - +90 532 176 24 50: Pek dikkat edilmiyor galiba sprintlere
+5.07.2023 18:40 - Alperen ELMAS: Terraine placeholder mantığında 2 farklı texture ekledim. Birde çatıyı yerleştirdim. Hemen şimdi push yapabilirim ancak benim sahnemde sadece Beyza'nın karakteri var. O yüzden isterseniz önce pull yapıp sizdekileri (Fatma ve Ege) kendimdekilerle entegre etmeye çalışıp daha sonra push yapayım?
+5.07.2023 18:50 - +90 505 109 09 39: Benim branch dursun simdilik Alperen tesekkurler yine hata almayim🙏🏻
+5.07.2023 18:50 - +90 505 109 09 39: Bence de yazik etmisler
+5.07.2023 18:51 - +90 505 109 09 39: Akademi cok kati degil bence yeni proje ister 2 adimlik bir sey yaparlar bence
+5.07.2023 18:53 - Alperen ELMAS: Yok sadece kendi branışma pushlayacam :D İsteyen kendine çeker o ayrı :D Sizin branşların içeriği değişmeyecek. <Bu mesaj düzenlendi>
+5.07.2023 18:53 - +90 505 109 09 39: Tammamdir eline saglik
+5.07.2023 19:55 - +386 70 184 824: Guzel bir menu yapmaya calisicam bize
+5.07.2023 19:55 - +386 70 184 824: Bakiyorum akademidekiler cok kotu
+5.07.2023 19:55 - +386 70 184 824: Giristen daha etkileyelim
+5.07.2023 19:57 - +90 532 176 24 50: Ben oyun başlangicina karakteri koymak istiyorum ama yuz ifadesi nasil ayarlayacagimi dusunuyorum
+5.07.2023 19:58 - +90 532 176 24 50: Ai bulursam onunla yapicam
+5.07.2023 19:59 - +90 532 176 24 50: <Medya dahil edilmedi>
+5.07.2023 20:00 - Alperen ELMAS: Arkadaşlar değişikliklerimi kendi branışma ittim. Ancak sadece Beyza'nın karakteri var. Çünkü sizinkileri pull yapmamıştım. Sizinkileri pull yapıp onları da kendiminkiyle entegre ettikten sonra tekrar kendi branşıma push yapacağım. O zaman haber veririm.
+5.07.2023 20:03 - Alperen ELMAS: Motion capture ile yapıyorlardı geçmişte günümüzde ise yapay zeka yardımı olmadan yapamayız. (Yüz ifadesi için) <Bu mesaj düzenlendi>
+5.07.2023 20:03 - +90 532 176 24 50: Aynen araştırıcam onu bi
+6.07.2023 12:54 - +386 70 184 824: O zaman bu isi sen yap guzel fikir
+6.07.2023 15:53 - +90 532 176 24 50: @905369246361 sen birleştirdin mi çalışmaları
+6.07.2023 15:53 - +90 532 176 24 50: kendi branchinde
+6.07.2023 15:53 - +386 70 184 824: Son teslim ne zamandi
+6.07.2023 15:53 - +90 532 176 24 50: 18 i galiba
+6.07.2023 15:53 - +386 70 184 824: Guzel
+6.07.2023 15:54 - +386 70 184 824: Biraz aksattik ama herkes toparlarsa ypaariz derece ya
+6.07.2023 15:54 - +386 70 184 824: Ben baya begendim bizim assetleri
+6.07.2023 15:54 - +386 70 184 824: Hikaye dogrultusunda biran once baslayalim senaryoya
+6.07.2023 15:54 - +386 70 184 824: Karakter de hazir
+6.07.2023 15:55 - +90 532 176 24 50: ben bu akşam ve yarın tüm gün projeye bakıcam
+6.07.2023 15:55 - +90 532 176 24 50: beraber çalışmak isteyen olursa dc de olurum
+6.07.2023 15:56 - +386 70 184 824: Neler yapilmasi gerkeiyor suanda
+6.07.2023 15:56 - +386 70 184 824: Beyza sen bizim hikayeyi tekrar yazar misin suremize gore editleyelim
+6.07.2023 15:56 - +386 70 184 824: Ne kadarini yapabiliriz dusunelim
+6.07.2023 15:56 - +90 532 176 24 50: akşam toplansak mı onun için
+6.07.2023 15:57 - +386 70 184 824: Olur ama turkiye saatiyle 9 ya da 11den sonra uyuyo bana
+6.07.2023 15:57 - +90 532 176 24 50: bana okey
+6.07.2023 17:54 - +90 505 109 09 39: Ben hazirladim akşam bak istersen ama arka image oylesine koydum
+6.07.2023 18:52 - Alperen ELMAS: Eve şimdi geldim. Bu akşam kendime pull edeceğim. Peki bugün kaçta toplantı yapacağız? Her zamanki gibi mi?
+6.07.2023 19:03 - +90 505 109 09 39: Ben bugun musaitim özel saati isteyen biri yazsin bence toplanalim
+6.07.2023 19:03 - +90 505 109 09 39: 21 , 22 , 23 mü
+6.07.2023 19:54 - Alperen ELMAS: 22
+6.07.2023 20:04 - +386 70 184 824: Ben 22de katilamiycam siz yapin ben birinizden alirim bilgileri
+6.07.2023 20:04 - +386 70 184 824: Anca 23 benim
+6.07.2023 20:05 - +90 505 109 09 39: Arkadaslar ben ui yaptim beyza image yapacak onu degistirecegim bilginiz olsun daha iddiali biri varsa o yeniden yapabilir
+6.07.2023 20:06 - +90 505 109 09 39: 1.sahne ismi lazım bana sadece onu play buttonuna eklemem lazim
+6.07.2023 20:08 - Alperen ELMAS: Main Menu?
+6.07.2023 20:09 - +90 505 109 09 39: Anlamadim
+6.07.2023 20:09 - Alperen ELMAS: Sahne ismi için yazdım.
+6.07.2023 20:09 - +90 505 109 09 39: Hmm
+6.07.2023 20:09 - +90 505 109 09 39: Ozman onun isnini ekliyorum
+6.07.2023 20:10 - Alperen ELMAS: Bence olur.
+6.07.2023 20:11 - +90 505 109 09 39: Benim sahnelerimde o sahne isminde sahne yok aksam baglandigimizda cekeyim mi sizle 3 kere yaptim acikcasi bida gitmez ama yine de riske atmak istemiyorum🤦‍♀️
+6.07.2023 20:12 - +90 505 109 09 39: 22 mi 23 de mi bulusacaz
+6.07.2023 20:15 - Alperen ELMAS: Play butonuna basınca açılacak olan sahneden bahsediyorsan onun ismini henüz kararlaştırmadık. Ben main menü derken UI kısmındaki sahnenin ismi öyle olsun dedim. Benim sahnemin ismi ise şimdilik Deneme diye geçiyor. Saat 22'de buluşacağız ancak Ege'ye rapor vereceğiz bilgilendirmek için.
+6.07.2023 20:16 - +90 505 109 09 39: Aynen ondan bahsediyorum ben de neden benim sahme ismim gibi bir isim koymuslar dedim🤦‍♀️
+6.07.2023 20:46 - Alperen ELMAS: Arkadaşlar Fatma ve Ege'yi kendi branşıma ekledim ve kendi branşıma pushladım. Ancak çatılar gitti. Ek olarak yeni player scriptini önceki ile değiştirmem gerekiyor ancak önceki scriptinde bazı ayarlarını sıfırlamadan. Bunları yapınca tekrar pushlayacağım. <Bu mesaj düzenlendi>
+6.07.2023 21:51 - Alperen ELMAS: Arkadaşlar karakterin sizin en son yaptığınız halini koyup güncelledim. Çatılar ise düzelmedi. Prpjemin en son halini şimdi kendi branşıma ittim.
+6.07.2023 21:51 - +386 70 184 824: Catilari nasil halledicez
+6.07.2023 21:52 - Alperen ELMAS: Valla nedenini tespit edemedim bende. Belki reimport yapsak olur. Bilmiyorum.
+6.07.2023 23:17 - +90 532 176 24 50: https://www.youtube.com/watch?v=xTDuOSZrmmk&t=250s
+6.07.2023 23:17 - +90 532 176 24 50: asset store da ücretsiz fon için kullanılabilir
+6.07.2023 23:19 - +90 532 176 24 50: https://assetstore.unity.com/packages/audio/sound-fx/foley/footsteps-essentials-189879
+7.07.2023 02:52 - +386 70 184 824: <Medya dahil edilmedi>
+7.07.2023 02:52 - +386 70 184 824: Uykum geldi yarin da bakarim neler eklenebilir diye
+7.07.2023 02:52 - +386 70 184 824: menude ustune gelince sagdan katana ustunde durdugun seyin yaninda dursun diyorum
+7.07.2023 10:38 - +90 505 109 09 39: Yazıları ben canvas ile ekleyecegim Ege yazı olmasin
+7.07.2023 10:39 - +90 505 109 09 39: Guzel olmus
+7.07.2023 14:12 - +90 532 176 24 50: Eline sağlık çok güzel olmuş
+7.07.2023 14:15 - +90 532 176 24 50: @905369246361 senin branchten cektim her şeyi ama bi değişiklik olmadı
+7.07.2023 14:16 - +90 532 176 24 50: Benim eski kod gözüküyo hala
+7.07.2023 14:16 - +90 532 176 24 50: Musait oldugunda yardima gelebilir misin
+7.07.2023 14:16 - +386 70 184 824: Tamam onu cikartirim
+7.07.2023 14:16 - +386 70 184 824: Butonlari ayri aticam o zaman sana
+7.07.2023 14:17 - +386 70 184 824: Animasyon ekleyebiliyor muyuz menuye
+7.07.2023 14:17 - +386 70 184 824: Sey dusundum
+7.07.2023 14:17 - +90 532 176 24 50: Hover güzel olur
+7.07.2023 14:17 - +386 70 184 824: Menude mesela neyin ustune gelirse mouse kilici oraya tutsun
+7.07.2023 14:17 - +90 532 176 24 50: Menuye
+7.07.2023 14:17 - +386 70 184 824: Nasil olur
+7.07.2023 14:18 - +386 70 184 824: Arkadaslar KAZANIYORUZ merak etmeyin
+7.07.2023 14:18 - +90 505 109 09 39: Ben butonlari kodladim anlamadim neyi atacagini
+7.07.2023 14:18 - +90 532 176 24 50: HSHSHSHSHSHSH
+7.07.2023 14:18 - +90 532 176 24 50: Umarım ya
+7.07.2023 14:19 - +90 532 176 24 50: Görsellerden bahsediyo
+7.07.2023 14:20 - +90 532 176 24 50: Kodun aynı kalicak
+7.07.2023 14:20 - +386 70 184 824: Animasyon yapalim menuye
+7.07.2023 14:20 - +386 70 184 824: Aynen kodun ayni kalicak eline saglik
+7.07.2023 14:20 - +386 70 184 824: Cok guzel yapmissin oralari
+7.07.2023 14:21 - +90 505 109 09 39: Animasyon eklemeyi bilmiyorim ornek video vs varsa bakabiirim  ya da direkt o kismi benden cekip bilen biri ekeleyebilir veya any desk vs ile beraber de yapabiliriz
+7.07.2023 14:22 - +90 532 176 24 50: Bence onceligimiz o olmasın  şimdilik
+7.07.2023 14:22 - +90 532 176 24 50: Vakit kalirsa detaylara bakalım diye düşünüyorum
+7.07.2023 14:22 - +90 532 176 24 50: Siz ne diyosunuz
+7.07.2023 14:23 - +90 505 109 09 39: Ben sana katiliyorum
+7.07.2023 15:00 - Alperen ELMAS: Beyza Characters ismindeki klasörde yeni script. Eski script ise Asset klasörünün içinde. İkisi de var. Animasyona ise şimdi girmeyelim. Zaman kalırsa belki sonra gireriz.
+7.07.2023 15:02 - +90 532 176 24 50: Characters klasörü yok bende
+7.07.2023 15:02 - +90 532 176 24 50: Galiba merge yapamadım
+7.07.2023 15:02 - +90 532 176 24 50: Sen pushlamıs mıydın son halini
+7.07.2023 15:03 - Alperen ELMAS: Yanlış söyledim Character klasörü. Çatısız halini pushlamıştım. GitLFS işini halledince çatılı halini de pushlayacam.
+7.07.2023 15:03 - +90 532 176 24 50: O klasör de yok
+7.07.2023 15:04 - +90 532 176 24 50: Sen pushla ben tekrar cekmeye calisiyim
+7.07.2023 15:04 - Alperen ELMAS: Çatı dışındakiler zaten pushlu şu an. Çatı için ise GitLFS yüklemeden olmuyor. İstersen tekrar dene. Olmadı discorddan birlikte deneriz.
+7.07.2023 15:05 - +90 532 176 24 50: Tamamdır
+7.07.2023 15:10 - +90 532 176 24 50: Hallettim
+7.07.2023 15:10 - Alperen ELMAS: Güzel :)
+7.07.2023 17:40 - +90 532 176 24 50: @38670184824 animasyonları blend tree yapmamız lazım sanırım
+7.07.2023 17:40 - +90 532 176 24 50: Comboyu o blend tree ye baglayacağım
+7.07.2023 17:41 - +90 532 176 24 50: Seninkini bozmaktan korkuyorum musait olursan yapabilir misin
+7.07.2023 17:41 - +90 532 176 24 50: Beraber de bakabiliriz
+7.07.2023 18:03 - Alperen ELMAS: Arkadaşlar çatıları GitLFS ile kendi branışma göndermeyi denedim ancak GitLFS'nin 1 GB kotası varmış ve onu geçmişim. Kotayı daha fazla arttırabilmek için dolar bazlı ödeme yapmam gerekiyormuş. Ancak yine de internetten biraz daha araştırıp çözüm arayacağım.
+7.07.2023 18:04 - Alperen ELMAS: "batch response: This repository is over its data quota. Account responsible for LFS bandwidth should purchase more data packs to restore access..."
+7.07.2023 18:07 - +90 505 109 09 39: Bu odeme oyun kurallarina aykiri mi? eger mecbur odenecekse bu ucret bu grubun oyunu tek kisi odememeli Alperen.
+7.07.2023 18:11 - Alperen ELMAS: Yok ödeme yapmayacam sadece alternatif çözüm bakacam :D
+7.07.2023 18:12 - Alperen ELMAS: Belki başka çözümler de vardır.
+7.07.2023 18:29 - Alperen ELMAS: Arkadaşlar her ay 1 Gb lık kota sıfırlanıyormuş. Yani gelecek ay sıfırlanacak. Ancak o kadar zamanımız yok. Aklıma gelen çözüm işe şu: Biz zaten en sonunda bütün branşları "main" branşında birleştireceğiz ve main branşında hali hazırda çatı dosyaları zaten mevcut bu yüzden diyorum ki diğer branşlara çatı dosyalarını pushlamaya gerek yok çünkü en sonunda mainin içinde hepsini birleştirirken zaten main de mevcut olan çatı dosyaları da gelecek. Bir de aşağıdaki linkte önce forkla sonra lfs dosyasını arşivle ve zip olarak indir tarzı bir trick önerilmiş:
+7.07.2023 18:29 - Alperen ELMAS: https://stackoverflow.com/questions/62905325/this-repository-is-over-its-data-quota-account-responsible-for-lfs-bandwidth-sh
+7.07.2023 18:44 - +386 70 184 824: Elle ya ne olcak
+7.07.2023 18:45 - +386 70 184 824: Benim halim bende kayitli
+7.07.2023 18:45 - +386 70 184 824: Eger bir aksilik olursa benim halini kullaniriz bozmazsin bence
+7.07.2023 18:47 - +90 532 176 24 50: Tamam bi bakiyim
+9.07.2023 21:44 - +90 532 176 24 50: <Medya dahil edilmedi>
+9.07.2023 21:45 - +90 532 176 24 50: Her click i algılamıyo sürekli tıklamak gerekiyo onu düzeltmeye çalışıyorum
+9.07.2023 21:45 - +90 532 176 24 50: Onun dışında oldu gibi
+9.07.2023 21:45 - +386 70 184 824: Cok guzel
+9.07.2023 21:45 - +386 70 184 824: Peki diger animasyonlarla birlesti mi
+9.07.2023 21:45 - +90 532 176 24 50: Ben yeni animator ekledim
+9.07.2023 21:46 - +90 532 176 24 50: Jump ve crouch eklenicek
+9.07.2023 21:46 - +386 70 184 824: Benimkileri kullanmiycaz mi son olarak
+9.07.2023 21:47 - +90 532 176 24 50: Seninkileri birleştirebilirsen güzel olur aslında
+9.07.2023 21:47 - +90 532 176 24 50: Ama senin animasyon takılıyodu en son
+9.07.2023 21:47 - +90 532 176 24 50: Düzeltmiş miydin onu
+9.07.2023 21:47 - +386 70 184 824: Aw, wd atamamistim
+9.07.2023 21:47 - +386 70 184 824: O kolay
+9.07.2023 21:48 - +90 532 176 24 50: Sen nasıl rahat ediceksen
+9.07.2023 21:48 - +90 532 176 24 50: Senin camera scriptini de koyariz
+9.07.2023 21:48 - +90 532 176 24 50: Yarın beraber birleştirelim istersen
+9.07.2023 21:49 - +386 70 184 824: Sali aksam birlestirsek olur mu
+9.07.2023 21:49 - +386 70 184 824: Beraber yapalim aynen
+9.07.2023 21:49 - +386 70 184 824: @905423672102 dusmanlar hazir mi
+9.07.2023 21:49 - +90 532 176 24 50: Yetismeyecek hicbir sey :(
+9.07.2023 21:50 - +90 532 176 24 50: Ben yapmaya çalışırım
+9.07.2023 21:50 - +90 532 176 24 50: Olmadi seninle toparlarız
+9.07.2023 21:51 - +90 532 176 24 50: @905369246361 sen terrain i çözebildin mi
+9.07.2023 21:51 - +90 532 176 24 50: Yardım lazım mı
+9.07.2023 22:01 - Alperen ELMAS: Terrain derken çatıları kastediyorsan çatılar ana branchda var. Yani en sonunda oyunu main içinde birleştirirken çatılar gelecek. Başka branchlara ise çatıları pushlayamıyorum çünkü limiti geçmişim. Texturedan bahsediyorsan isterseniz texture gönderin bana onları koyayim ya da keni seçtiğim textureyi atayım.
+9.07.2023 22:02 - +90 532 176 24 50: Kendi seçtiğin düzgün duran bir texture yapabilirsen süper olur
+9.07.2023 22:02 - +90 532 176 24 50: Asset resimlerindekine benzer bi zemin yapılabilir
+9.07.2023 22:03 - Alperen ELMAS: Tamamdır o zaman benzer bir şey atamaya çalışacağım.
+9.07.2023 22:03 - +90 532 176 24 50: Assetin içinde vardır muhtemelen
+9.07.2023 22:04 - Alperen ELMAS: Yok assete o zaman bakmıştım yoktu ama tekrardan bakacağım.
+9.07.2023 22:10 - +90 505 109 09 39: Ege birara text olmadan hazirladigin gorseli de atabilirmisin?
+9.07.2023 22:10 - +386 70 184 824: Atarim
+9.07.2023 22:11 - +90 532 176 24 50: Contentin içindeki texture klasöründe ground texturelar
+9.07.2023 22:13 - Alperen ELMAS: Zaten önceden seçtiklerimi oradan seçmiştim. Ama yine de tekrardan bir gözden geçireceğim.
+9.07.2023 22:20 - Alperen ELMAS: <Medya dahil edilmedi>
+9.07.2023 22:20 - Alperen ELMAS: Dış katmandaki dağ ile aynı texture.
+9.07.2023 22:20 - Alperen ELMAS: Sizce nasıl?
+9.07.2023 22:21 - +90 532 176 24 50: Daha iyi
+9.07.2023 22:21 - +90 532 176 24 50: Ground ile başlayanlar vardı bir de onları deneyebilir misin
+9.07.2023 22:21 - Alperen ELMAS: Bu zaten ground ile başlıyor.
+9.07.2023 22:22 - +90 532 176 24 50: He okay. Eline sağlık.
+9.07.2023 22:29 - Alperen ELMAS: İsteyen olursa pushladım arkadaşlar.
+9.07.2023 22:46 - +90 542 367 21 02: Hocam bende karakterde çalışıyordum aslında
+9.07.2023 22:46 - +90 542 367 21 02: Yürüme koşma zıplama vs
+9.07.2023 22:46 - +90 542 367 21 02: Şeyker yaptım
+9.07.2023 22:46 - +90 542 367 21 02: Yer çekimi sıkıntımız vardı ya geçenkinde
+9.07.2023 22:46 - +90 542 367 21 02: Onu ayarlayan bi kod yazıyordum şuan İnternetten buldum
+9.07.2023 22:58 - +386 70 184 824: Onlar vardi ya benim karakterde
+9.07.2023 22:58 - +386 70 184 824: Ziplama gravity sikintiydi
+9.07.2023 22:58 - +386 70 184 824: Aw dw mi ekledin
+9.07.2023 22:58 - +90 542 367 21 02: Biliyorum dostum ama kodu falan değiştirdiö işte tamamen
+9.07.2023 22:58 - +386 70 184 824: Cross walk falan mi
+9.07.2023 22:58 - +90 542 367 21 02: Animasyonlar aynı
+9.07.2023 22:58 - +386 70 184 824: Anladim
+9.07.2023 22:59 - +90 542 367 21 02: Tekrar başladım yani beceremeyince düzeltmeyi
+9.07.2023 22:59 - +386 70 184 824: @905051090939 mail adresiji yazar misin atiyim
+9.07.2023 22:59 - +386 70 184 824: Cozunurluk dusmesin
+9.07.2023 23:00 - +90 505 109 09 39: Bu mesaj silindi
+9.07.2023 23:00 - +90 505 109 09 39: fatmasahiner01@yandex.com
+9.07.2023 23:00 - +386 70 184 824: Textler olmuycak dimi sadece
+9.07.2023 23:01 - +90 505 109 09 39: Evet
+9.07.2023 23:02 - +386 70 184 824: Bu mesaj silindi
+9.07.2023 23:02 - +386 70 184 824: Boyle dimi
+9.07.2023 23:02 - +386 70 184 824: Bu mesaj silindi
+9.07.2023 23:02 - +386 70 184 824: <Medya dahil edilmedi>
+9.07.2023 23:02 - +90 505 109 09 39: Buton yerlerindeki seylerde olmasa
+9.07.2023 23:03 - +386 70 184 824: Yoksa butonlari da ayri atiyim mi
+9.07.2023 23:03 - +386 70 184 824: Png seklinde
+9.07.2023 23:03 - +90 505 109 09 39: Cunku ekran degistikce butonlar kayar
+9.07.2023 23:03 - +386 70 184 824: Butonsuz mu olucak yani
+9.07.2023 23:03 - +90 505 109 09 39: Ben koyacam onlari
+9.07.2023 23:03 - +386 70 184 824: Onlari da ayri atiyim o zaman
+9.07.2023 23:03 - +386 70 184 824: Bekle
+9.07.2023 23:04 - +90 505 109 09 39: Sen sadece resim yollar misim hic buton yeri de olmasin
+9.07.2023 23:04 - +90 505 109 09 39: Olur
+9.07.2023 23:07 - +386 70 184 824: Yolladim
+9.07.2023 23:07 - +90 505 109 09 39: Evet geldi
+9.07.2023 23:08 - +90 505 109 09 39: Teşekkurler
+11.07.2023 11:49 - +386 70 184 824: Durum nedir
+11.07.2023 11:49 - +386 70 184 824: Bakabilirim suanda istenilen her seye
+11.07.2023 11:50 - +90 532 176 24 50: Ben dün hiç bakamadım
+11.07.2023 11:50 - +90 532 176 24 50: Istersen sen animasyonlari hallet
+11.07.2023 11:50 - +90 532 176 24 50: 1 saate musait olursan beraber birlestirelim
+11.07.2023 11:50 - +386 70 184 824: Tamam animasyonlarda ne var suanda cozulmesi gereken
+11.07.2023 11:50 - +386 70 184 824: Buglari mi cozuyim benimkindeki
+11.07.2023 11:51 - +386 70 184 824: Yoksa ekstra mi bir sey
+11.07.2023 11:51 - +90 532 176 24 50: Evet evet
+11.07.2023 11:51 - +386 70 184 824: Okay
+11.07.2023 12:03 - +90 542 367 21 02: Ben karakteri tamamladım şuan sıkıntısız bir biçimde yürüyor, koşuyor, zıplıyor, düşüyor, ve dodgleluyor
+11.07.2023 12:04 - +90 542 367 21 02: Kılıç çekme ve kılıcı geri koyma animasyonu vs. ayarlayacağım daha sonra bu animasyonları elinde kılıç varken yaptıracağım
+11.07.2023 12:06 - +386 70 184 824: Aaa o zaman beyzayla birlestirin
+11.07.2023 12:06 - +386 70 184 824: Kamerayi benimkini mi kullaniyorsun
+11.07.2023 12:06 - +386 70 184 824: Zoom ozelligi de vardi onda
+11.07.2023 12:06 - +386 70 184 824: Gecis falan
+11.07.2023 12:06 - +90 542 367 21 02: Cinemachine kullanıyorum ama seninkine de çevirebilirim
+11.07.2023 12:07 - +386 70 184 824: Eger cok daha iyiyse birakabilirsin
+11.07.2023 12:07 - +90 542 367 21 02: Bir karşılaştırayim dostumm
+11.07.2023 12:10 - +90 532 176 24 50: Umut yeni input systemle mi yaptin yoksa normal mi
+11.07.2023 12:31 - +90 542 367 21 02: İnput systemle yaptım
+11.07.2023 14:09 - +90 532 176 24 50: Tamam benim scripti ona gore ayarlayayim o zaman
+11.07.2023 14:10 - Alperen ELMAS: Arkadaşlar cinemachine kapılarda sıkıntı yaratabilir çünkü geçmişte yaratmıştı. Çünkü cinemachinenın (ana kameranın) raycast hizası ile karakteri takip eden kameranın Raycast hizası uyumlu olmuyor. O yüzden normal camera olsun bence.
+12.07.2023 11:37 - Alperen ELMAS: Arkadaşlar sizinle paylaşmam gereken bir husus var. Şöyle ki ayın 17'si proje'de düzenleme yapmak için son gün. Yani siz bana ana karakterin son halini ve düşman prefablarını yolladıktan sonra onları haritada kullanıp bölüm yapmam için en azından bir 3 gün ( en kötü 2 gün) çalışmam gerek. Yani en geç ayın 14'ünün gece 23.59'una kadar bana ana karakterin son halini ve düşman prefablarını gönderirseniz bende kalan 3 gün prototip bir bölüm yapmaya çalışırım. Eğer zaman yetmeyecek diyorsanız sadece 1 tane düşman çeşidi yapın ve ana karakterin son haliyle beraber o 1 düşman çeşidini de gönderin. Ancak tabi bunlar benim düşüncelerim. Son karar hepimize ait.
+12.07.2023 11:47 - +90 532 176 24 50: Bugün bi görüşelim bence görev dağılımını teslim sürelerini planlarız tekrar
+12.07.2023 11:53 - +386 70 184 824: Goruselim bugun bence de
+12.07.2023 12:45 - +90 542 367 21 02: Akşam biraz geç katılabilirim ben ama görüşelim
+12.07.2023 13:28 - +90 505 109 09 39: Kac gibi katilabilirsin
+12.07.2023 13:35 - +90 542 367 21 02: 10.30 gibi
+12.07.2023 13:35 - +90 505 109 09 39: O zaman o saatte bulusalim herkese uyarsa
+12.07.2023 14:06 - Alperen ELMAS: Tamamdır. Bana uyar.
+12.07.2023 22:34 - +90 532 176 24 50: @905051090939 @905423672102 sizi bekliyoruz
+12.07.2023 22:35 - +90 505 109 09 39: Bilgisayar guncelleme yapti acinca geliyorum
+12.07.2023 23:17 - +90 542 367 21 02: Gelemedim maalesef kusura bakmayınn
+12.07.2023 23:52 - +90 505 109 09 39: <Medya dahil edilmedi>
+12.07.2023 23:52 - +90 505 109 09 39: https://www.mixamo.com/#/?page=1&query=+Erika+Archer
+12.07.2023 23:52 - +90 505 109 09 39: <Medya dahil edilmedi>
+12.07.2023 23:52 - +90 505 109 09 39: <Medya dahil edilmedi>
+12.07.2023 23:52 - +90 505 109 09 39: <Medya dahil edilmedi>
+12.07.2023 23:52 - +90 505 109 09 39: <Medya dahil edilmedi>
+12.07.2023 23:52 - +90 505 109 09 39: <Medya dahil edilmedi>
+12.07.2023 23:55 - +90 505 109 09 39: Beyza  hic bilmedigimden soruyorum simdi ben bu dusmani kodlarken karsisina bizim karakteri mi koyacam yani bizi oldurecek degil mi
+12.07.2023 23:57 - +90 532 176 24 50: Bizim karakter bile çıkmamış  anlamadım
+12.07.2023 23:57 - +90 505 109 09 39: Kopyala yapistir yaptim
+12.07.2023 23:58 - +90 532 176 24 50: Evet bizimle savasicak
+12.07.2023 23:58 - +90 532 176 24 50: Belki ben yanlış yazmışımdır
+12.07.2023 23:58 - +90 532 176 24 50: İlk isimlerini yazsan çıkar belki
+12.07.2023 23:59 - +90 505 109 09 39: Erika guzel bence onu alsam sorun olur mu
+13.07.2023 00:00 - +90 532 176 24 50: Erkek olması daha iyi olur sanki
+13.07.2023 00:01 - +90 532 176 24 50: Ama şimdilik onunla yap istersen sonra değiştirebiliriz sonuçta
+13.07.2023 00:02 - +90 505 109 09 39: Bakiyorum
+13.07.2023 10:49 - +386 70 184 824: <Medya dahil edilmedi>
+13.07.2023 10:50 - +386 70 184 824: Bunu nereden kaldircaz
+13.07.2023 10:50 - +386 70 184 824: Assetde adini bilen var mi
+13.07.2023 10:51 - +386 70 184 824: Hallettim
+13.07.2023 12:00 - Alperen ELMAS: Onu kaldırmana gerek yok kapı sistemi onun üzerinden yürüyor çünkü.
+13.07.2023 12:01 - Alperen ELMAS: Kapı imajı çıkıyor kapıya yaklaşınca oradan oluyor. <Bu mesaj düzenlendi>
+13.07.2023 12:05 - +386 70 184 824: Video icin kaldirdim
+13.07.2023 12:06 - Alperen ELMAS: Ha tamam sonra geri açarsın o zaman :D
+13.07.2023 12:34 - +386 70 184 824: Yazilar turkce mi ingilizce mi olsun
+13.07.2023 12:34 - +386 70 184 824: Seslendirme yapabilir miyim diye dusundum
+13.07.2023 12:34 - +386 70 184 824: Ama dedim kesin kotu olur
+13.07.2023 12:39 - +386 70 184 824: Bir de kilicli texture ne zaman gelir
+13.07.2023 12:39 - +386 70 184 824: Offf kafayi yediricem size videoyla
+13.07.2023 12:39 - +386 70 184 824: Beyza acil kilicli karakter yap ahhahha
+13.07.2023 12:39 - +386 70 184 824: Bu giristen ilk 7ye gireriz
+13.07.2023 12:39 - +90 532 176 24 50: tamam tamam geliyoo
+13.07.2023 12:40 - +90 532 176 24 50: kjfjghjskgj merak ettim he
+13.07.2023 12:40 - +386 70 184 824: intronun so su sekilde
+13.07.2023 12:42 - +386 70 184 824: Samurai elindeki kilicla sun templein kapisini aciyo ve altta gecen yazi da boyle olucak 
+
+Remember, a samurai's spirit never dies, it lives on in the tales of his bravery, the echoes of her sword, and the "path of her honor".
+13.07.2023 12:42 - +90 532 176 24 50: offff
+13.07.2023 12:42 - +90 532 176 24 50: fena
+13.07.2023 12:43 - +386 70 184 824: dimiiii
+13.07.2023 12:43 - +386 70 184 824: haahahdgah
+13.07.2023 12:43 - +386 70 184 824: kafayi yedirtir
+13.07.2023 12:43 - +90 532 176 24 50: ses çok iyi olabilir aslında
+13.07.2023 12:43 - +386 70 184 824: seslendirmeyi deniyim mi
+13.07.2023 12:43 - +386 70 184 824: veya guvenen var mi kendine
+13.07.2023 12:43 - +90 532 176 24 50: benim seslendirme yapan bi arkadaşım var
+13.07.2023 12:43 - +386 70 184 824: ciddi misin
+13.07.2023 12:43 - +90 532 176 24 50: ona bi sorsam
+13.07.2023 12:43 - +386 70 184 824: aslinda boyle 7-8 cumle
+13.07.2023 12:43 - +90 532 176 24 50: eskiden reklam seslendirmiş 2-3 kere
+13.07.2023 12:43 - +386 70 184 824: super olur ya
+13.07.2023 12:44 - +386 70 184 824: parasiz yapar mi ki
+13.07.2023 12:44 - +386 70 184 824: turkce mi olucak yazilar ingilizce mi
+13.07.2023 12:44 - +386 70 184 824: bilgin var mi
+13.07.2023 12:44 - +90 532 176 24 50: ve 8 yıl amerikada yaşadı ingilizcesi mükemmel
+13.07.2023 12:44 - +386 70 184 824: aaa super olur yapsa o zaman
+13.07.2023 12:44 - +90 532 176 24 50: oyun ismi falan İngilizce ya İngilizce devam edelim
+13.07.2023 12:44 - +386 70 184 824: sen idarelik kilic koyabilir misin
+13.07.2023 12:45 - +386 70 184 824: hallediyim isteyken bazi kisimlarini
+13.07.2023 12:45 - +90 532 176 24 50: benim combo yaptığım karaktere koyayım mı
+13.07.2023 12:45 - +386 70 184 824: olur
+13.07.2023 12:46 - +386 70 184 824: hikaye de soyle dusundum
+13.07.2023 12:46 - +386 70 184 824: bu karaktere yatma animasyonu koyucam
+13.07.2023 12:46 - +386 70 184 824: yataga yatiricam
+13.07.2023 12:46 - +386 70 184 824: gozlerinden zoomla basliycak
+13.07.2023 12:46 - +386 70 184 824: uyanisi gibi
+13.07.2023 12:46 - +386 70 184 824: guzel bir seyler cikartirim gibi ama birkac gun buna odaklanicam
+13.07.2023 12:51 - +90 532 176 24 50: arkadaşım tamam dedi
+13.07.2023 12:51 - +90 532 176 24 50: ama ona text lazım
+13.07.2023 12:52 - +90 532 176 24 50: erkek karakter seslendirmek istiyosanız kimseyi bulamazsanız audition diye bi programla kendi sesimi bozabilirim dedi
+13.07.2023 12:52 - +90 532 176 24 50: usta için mesela
+13.07.2023 12:54 - +90 532 176 24 50: ama her şeyden önce video ekleniyo mu unity ye emin miyiz
+13.07.2023 12:54 - +386 70 184 824: Ya bence sirf introyu okusa okay
+13.07.2023 12:54 - +386 70 184 824: Bu bile bizi baya one tasir
+13.07.2023 12:54 - +386 70 184 824: Gorselligime guveniyorsaniz
+13.07.2023 12:54 - +386 70 184 824: Bir de logo yapiyim mi oyuna
+13.07.2023 12:54 - +386 70 184 824: O isleri hallediyim
+13.07.2023 12:54 - +90 532 176 24 50: outroya da fiyakalı bir şey güzel olur
+13.07.2023 12:54 - +90 532 176 24 50: oluur
+13.07.2023 12:54 - +386 70 184 824: Derece alirsak anca gorsellikle alabilicez cunku suanda
+13.07.2023 12:55 - +386 70 184 824: @905423672102 @905369246361 @905051090939  dusman, envanter, level design bakarsaniz derecedeyiz bence
+13.07.2023 12:55 - +386 70 184 824: Beyza sen sirf karaktere odaklan bence senin elinden geliyo
+13.07.2023 12:55 - +90 532 176 24 50: benim videoda envanter de var galiba
+13.07.2023 12:56 - +386 70 184 824: Combat falan her seyi ayarla
+13.07.2023 12:56 - +386 70 184 824: Oooo supeeerr
+13.07.2023 12:56 - +386 70 184 824: Tamam
+13.07.2023 12:56 - +386 70 184 824: Dusmana da ayni combat ekleriz
+13.07.2023 12:56 - +90 532 176 24 50: interaction yapmış sandıktan bir şeyler topluyo
+13.07.2023 12:56 - +90 532 176 24 50: onları da yapıcam
+13.07.2023 12:56 - +386 70 184 824: Mentilli dusman ve level design lazim
+13.07.2023 12:56 - +386 70 184 824: Ben o zaman tasarima baya odaklaniyorum
+13.07.2023 12:57 - +90 532 176 24 50: tamamdır
+13.07.2023 12:57 - +90 532 176 24 50: ben akşama yetiştirmeye çalışıcam
+13.07.2023 12:57 - +90 505 109 09 39: Ben dusman icin bakiyorum animasyonlari indirdim ama ilk defa yaptigim icin cok vakit harciyorum
+13.07.2023 12:58 - +90 532 176 24 50: bu akşam ya da yarın akşam için net olmayan bi planım var duruma göre bu akşam ya da yarına yetişir
+13.07.2023 12:59 - +386 70 184 824: Menuyu atar misin merak ettim baya goruntusunu
+13.07.2023 12:59 - +386 70 184 824: Ona gore bir seyler eklerim introya belki
+13.07.2023 13:01 - +90 505 109 09 39: Atmistim ben onu
+13.07.2023 13:01 - +386 70 184 824: Nereye
+13.07.2023 13:02 - +90 505 109 09 39: Alperenden cektiysen hepsini
+13.07.2023 13:02 - +90 505 109 09 39: ScenesUI icinde
+13.07.2023 13:05 - +386 70 184 824: <Medya dahil edilmedi>
+13.07.2023 13:05 - +90 505 109 09 39: Evet
+13.07.2023 13:05 - +386 70 184 824: Buttonsuz ve yazilar cok buyuk olmus sanki ya ama digerlerinin de fikirlerini alalim tabi
+13.07.2023 13:07 - +386 70 184 824: <Medya dahil edilmedi>
+13.07.2023 13:07 - +90 505 109 09 39: Düzeltim ama düşmana bakamayabilirim 2 3 saat sorun olmazsa yeniden yapim
+13.07.2023 13:07 - +386 70 184 824: Buton olayi hos gibiydi goruntu acisindan
+13.07.2023 13:07 - +386 70 184 824: Dusmana bak sen ben bununla bir ara ilgilenirim
+13.07.2023 13:07 - +90 505 109 09 39: Ozman düşmanı birakip bunu yapim
+13.07.2023 13:07 - +386 70 184 824: En azindan calisan menumuz var
+13.07.2023 13:07 - +386 70 184 824: Zaman kalirsa bakariz
+13.07.2023 13:07 - +386 70 184 824: Dusman daha onemli
+13.07.2023 13:07 - +90 505 109 09 39: 👍
+13.07.2023 13:08 - +90 505 109 09 39: Videoya alma ozaman burdan
+13.07.2023 13:08 - +90 505 109 09 39: Sonra degisirse
+13.07.2023 13:08 - +90 505 109 09 39: 2 iş olmasin
+13.07.2023 13:10 - +386 70 184 824: Oyun videosu en son
+13.07.2023 13:10 - +386 70 184 824: Ben introyu yapicam simdi sadece
+13.07.2023 13:57 - +90 542 367 21 02: Bakıyorum şimsi
+13.07.2023 13:59 - +90 505 109 09 39: Tam olarak neye bakiyorsun Umut söyle de aynı şeyi 2 kişi yapmasin
+13.07.2023 13:59 - +90 505 109 09 39: Cakismistiniz gecende Ege ile
+13.07.2023 14:04 - +90 542 367 21 02: Dusmana bakıcma
+13.07.2023 14:04 - +90 542 367 21 02: Bakıcam
+13.07.2023 14:05 - +90 505 109 09 39: Bu mesaj silindi
+13.07.2023 14:05 - +90 505 109 09 39: Bu mesaj silindi
+13.07.2023 14:24 - +386 70 184 824: Hangi dusmana
+13.07.2023 15:22 - +386 70 184 824: <Medya dahil edilmedi>
+13.07.2023 15:23 - +386 70 184 824: Hikaye bu tarz anlatilcak ama karakter hazir olunca tabi ki karakterle guzel sahnelerle
+13.07.2023 15:23 - +386 70 184 824: Bu mesela iste koye baskini anlatan bir yazi icin
+13.07.2023 15:24 - +90 505 109 09 39: Muhteşem
+13.07.2023 15:30 - +90 532 176 24 50: Çok iyiii
+13.07.2023 15:30 - +386 70 184 824: Arka seslendirme halledersen
+13.07.2023 15:30 - +386 70 184 824: Su giris var ya
+13.07.2023 15:31 - +386 70 184 824: Patlatiriz etrafi
+13.07.2023 15:31 - +90 532 176 24 50: Art yapan kimse olmamasına rağmen ekipte görseli çok iyi olucak oyunun
+13.07.2023 15:31 - +386 70 184 824: Menuyu de hafif buton duzenlemesi yapicam
+13.07.2023 15:31 - +90 532 176 24 50: Akşam 6 da görüşücez arkadaşımla
+13.07.2023 15:31 - +386 70 184 824: Bence kafayi yer juri seslendirmeyi yaparsak
+13.07.2023 15:31 - +90 532 176 24 50: Sadece ateş cıtırtısı rüzgar sesi alttan güzel olabilir
+13.07.2023 15:33 - +386 70 184 824: Aynen ekliycem
+13.07.2023 15:34 - +90 532 176 24 50: Vaktin olursa animasyon kısmını da araştırabilir misin menü için
+13.07.2023 15:34 - +386 70 184 824: Ya bence ben full gorsellige bakiyim
+13.07.2023 15:34 - +386 70 184 824: Animasyon ekliyim menuye
+13.07.2023 15:34 - +90 532 176 24 50: Aynen bence de
+13.07.2023 15:34 - +386 70 184 824: Boyle baya saglam bir giris yapalim
+13.07.2023 15:35 - +386 70 184 824: 30-40 dk oyun cikarabilir misiniz peki
+13.07.2023 15:35 - +386 70 184 824: Tek bolum
+13.07.2023 15:35 - +386 70 184 824: Sonra oyun videosuyla da guzel editler yaparim
+13.07.2023 15:35 - +90 532 176 24 50: Valla uğraşıcam
+13.07.2023 15:35 - +90 532 176 24 50: Umarım çıkar
+13.07.2023 15:36 - +386 70 184 824: Super olur
+13.07.2023 15:36 - +386 70 184 824: Kilicli karakter hazir olunca videoya geciyim
+13.07.2023 15:36 - +386 70 184 824: Bir de sey ekliycez
+13.07.2023 15:36 - +90 532 176 24 50: Videodaki alt yazı fontuyla menüdeki uyumlu olsun bence
+13.07.2023 15:37 - +386 70 184 824: Bir tane dusmani koyabilirsen sadece gorsel hafif hareketli bir idle animasyonla koy
+13.07.2023 15:37 - +386 70 184 824: T harfine basinca boyle sinirlendigi bagirdigi bir animasyonla
+13.07.2023 15:37 - +386 70 184 824: Baska ozelligi olmasina gerek yok
+13.07.2023 15:37 - +90 532 176 24 50: Tamamdır
+13.07.2023 15:37 - +90 532 176 24 50: Yarım saate başlayacağım yapmaya
+13.07.2023 15:37 - +386 70 184 824: Videodaki yazi formu benim ilk yaptigim menudeki
+13.07.2023 15:37 - +386 70 184 824: Kotuyse degistiriyim
+13.07.2023 15:38 - +386 70 184 824: Pardonn baska
+13.07.2023 15:38 - +90 532 176 24 50: Videodaki güzel ama menüdekinden çok farklı
+13.07.2023 15:38 - +386 70 184 824: Ilk yaptigim menu baska bu baska
+13.07.2023 15:38 - +386 70 184 824: Menuyu ayarliycam
+13.07.2023 15:38 - +386 70 184 824: Animasyonlu bir seyler yapicam zaten
+13.07.2023 15:38 - +90 532 176 24 50: Menüde iki çizgiliydi senin yaptığın
+13.07.2023 15:38 - +386 70 184 824: Hangisi olsun peki
+13.07.2023 15:39 - +90 532 176 24 50: Bence fatmanın kullandığı daha iyi menü için
+13.07.2023 15:39 - +90 532 176 24 50: Ama biraz cartoon a kayıyo gibi
+13.07.2023 15:40 - +90 532 176 24 50: Alt yazı fontunu da bi deneyebilirsin
+13.07.2023 15:40 - +90 532 176 24 50: Resim atarsın beraber karar veririz ekiple
+13.07.2023 15:40 - +386 70 184 824: Bakiyim ugrasirim birazdab
+13.07.2023 15:49 - +90 532 176 24 50: Ege sadece intro da mı olsun ses
+13.07.2023 15:50 - +90 532 176 24 50: Daha fazla yerde güzel olabilir belki
+13.07.2023 15:50 - +90 532 176 24 50: Bana akşam 6 ya kadar yazıları atarsın
+13.07.2023 16:03 - +386 70 184 824: Ya kilicla vurdugundaki sesi olsa
+13.07.2023 16:03 - +386 70 184 824: Bir de mesela ona vuruldugundaki
+13.07.2023 16:04 - +386 70 184 824: Yoruldugunda kosarken nefes alma sesi
+13.07.2023 16:04 - +386 70 184 824: Bosla karsilastiginda sonda bir sahne olsun
+13.07.2023 16:04 - +386 70 184 824: Bir de ustasini bulunca
+13.07.2023 16:04 - +386 70 184 824: O ikisi de dusunulup onun da sesleri yapilsa
+13.07.2023 16:04 - +386 70 184 824: Oyun ucar
+13.07.2023 16:05 - +90 532 176 24 50: tamam genel hattıyla bi yazı yaparsın
+13.07.2023 16:05 - +386 70 184 824: Yaparim
+13.07.2023 16:05 - +386 70 184 824: Kaca kadar
+13.07.2023 16:05 - +90 532 176 24 50: yapabildiğini yapar olmadı o sesleri asset storedan da buluruz bence
+13.07.2023 16:05 - +386 70 184 824: Ama mesela karsida erkek konusmuycak o kotu biraz
+13.07.2023 16:05 - +90 532 176 24 50: 6 da buluşucam
+13.07.2023 16:06 - +90 532 176 24 50: erkek sesi yaparım dedi
+13.07.2023 16:06 - +386 70 184 824: Onu da mi yaparmis
+13.07.2023 16:06 - +386 70 184 824: Super o zaman
+13.07.2023 16:06 - +90 532 176 24 50: programda sesiyle oynayabilirmiş
+13.07.2023 16:06 - +386 70 184 824: Boyle ayni sesi kaydedip 5-6 farkli kilicla vurma, 5-6 farkli dodge ve yorulma sesi yapabilir mi acaba
+13.07.2023 16:06 - +90 532 176 24 50: inş yapar yani sksdgkldjg ne çıkar bilmiyorum
+13.07.2023 16:07 - +90 532 176 24 50: o kadar uğraşmaz belki
+13.07.2023 16:07 - +90 532 176 24 50: ama şansımı denerim
+13.07.2023 16:07 - +90 532 176 24 50: akşam atarım denemeleri
+13.07.2023 16:07 - +386 70 184 824: Ben 23unde istanbula gelicem bu arada musait olan olursa bir seyler icelim dereceyi kutlamak icin 🙃
+13.07.2023 16:07 - +90 532 176 24 50: siz de yorum yaparsınız
+13.07.2023 16:07 - +386 70 184 824: Shdjdjdjdj
+13.07.2023 16:08 - +90 532 176 24 50: hahdhhdjdssjhsaf derece gelsin de her türlü kutlarız
+13.07.2023 16:08 - +386 70 184 824: Djdjsjjdjd
+13.07.2023 16:09 - +386 70 184 824: Diyelim kaza bela girdik ilk 7ye ne oluyordu bize avantaji
+13.07.2023 16:09 - +90 532 176 24 50: İstanbul festivaline gelicek olan varsa aramızda orada da yakından tanışıp eğlenebiliriz
+13.07.2023 16:09 - +386 70 184 824: Aaa kacinda
+13.07.2023 16:09 - +90 532 176 24 50: galiba cv hazırlama mülakata hazırlanma ıvır zıvırları
+13.07.2023 16:09 - +386 70 184 824: Ilk 3 harici pek bir sey yok yani
+13.07.2023 16:10 - +90 532 176 24 50: baya uzun temmuz son hafta ağustos ikinci haftasına kadar sanırım
+13.07.2023 16:10 - +90 532 176 24 50: yani ama hocalarla yakınlaşmak iyi
+13.07.2023 16:10 - +90 532 176 24 50: ilk 3 flutter unity karışık mı seçiliyo
+13.07.2023 16:11 - +90 532 176 24 50: https://www.istanbulfestivali.com/?gclid=CjwKCAjwwb6lBhBJEiwAbuVUShH0eAIsILF6P5mWMh9kYw3NL6P-iRy1IuNu8CUbs-6vUC2leY2gVxoCGcMQAvD_BwE
+13.07.2023 16:12 - +90 532 176 24 50: hayko duman ve dolu kadehi ters tut a bilet aldım gelirseniz haberim olsun
+13.07.2023 16:13 - +386 70 184 824: 3-3 galiba
+13.07.2023 16:13 - +386 70 184 824: Ben galiba izmirde olucam o tarihlerde
+13.07.2023 16:13 - +386 70 184 824: ama tek girislik bilet alip birtanesine gelirim
+13.07.2023 16:14 - +90 532 176 24 50: iyi bari
+13.07.2023 16:14 - +90 532 176 24 50: konsere bilet alınca bütün gün giriş yapabiliyosun sanırım
+13.07.2023 16:15 - +90 532 176 24 50: 85 tl şaka gibi
+13.07.2023 16:17 - +386 70 184 824: 85 tl mi
+13.07.2023 16:17 - +386 70 184 824: ciddi misin
+13.07.2023 16:17 - +386 70 184 824: 180 gordum ben
+13.07.2023 16:17 - +90 532 176 24 50: ben 85 e aldım
+13.07.2023 16:17 - +90 532 176 24 50: sahne önü mü bakıyosun
+13.07.2023 16:18 - +90 532 176 24 50: sahne önü biletler kalmış bi tek sanırım
+13.07.2023 16:18 - +90 532 176 24 50: üstte genel satış kategorisi var
+13.07.2023 16:19 - +386 70 184 824: Samurai: I have come a long way, fought many battles, and faced countless adventures to stand here before you. You, who has torn my village apart, who has stolen my master from me.
+
+Boss: So, the little samurai finally makes her appearance. Do you think your journey has made you strong? Do you believe your little tale of vengeance will have its heroic end?
+
+Samurai: I'm not here for tales or heroics. I am here for justice. I am here for my village, for my master.
+
+Boss: Ah, the very same village that now lies in ashes? The master who cowers in my Sun Temple? Do you hope to restore them with your hollow words?
+
+Samurai: No. I'll restore them with my actions. With every swing of my sword, every beat of my heart, every breath in my body, I fight for them. They are not forgotten, and their suffering will not be in vain.
+
+Boss: Bold words, samurai. Let's see if your blade is as sharp as your tongue.
+
+Samurai: It is not my blade you should fear, but the Honor that guides it. Today, the Path of Honor is restored. Today, I fight for those who cannot. This is my purpose, my duty. Prepare yourself.
+13.07.2023 16:20 - +386 70 184 824: Bakarim tekrardan
+13.07.2023 16:20 - +386 70 184 824: Bu oyun sonu bizim ustamizi bulmadan onceki son savas
+13.07.2023 16:21 - +90 532 176 24 50: güzeell
+13.07.2023 16:21 - +386 70 184 824: arkadasina sor birazcik ama belki daha guzel kelimeler onerir
+13.07.2023 16:22 - +90 532 176 24 50: editör arkadaşım da var ona da sorayım
+13.07.2023 16:22 - +386 70 184 824: Bu mesaj silindi
+13.07.2023 16:23 - +386 70 184 824: bir dk daha duzenliycektim
+13.07.2023 16:23 - +90 532 176 24 50: tamam
+13.07.2023 16:27 - +90 532 176 24 50: https://docs.google.com/...
+13.07.2023 16:27 - +90 532 176 24 50: bu dökümanda düzenlersin
+13.07.2023 16:29 - +386 70 184 824: Master: You've returned, my young samurai. I see the journey has changed you. Your spirit, it burns brighter.
+
+Samurai: Master, I've done as you taught. I carried Honor in my heart.
+
+Master: Ah, but it was not the Honor that defeated the enemy. It was you, your resilience, your determination. The Honor was your guide to this Path. 
+
+Samurai: I... I only sought to protect our people, to free you.
+
+Master: And in doing so, you've found your path, the true Path of Honor. You've shown great courage, my young samurai.
+
+Samurai: Thank you, Master. Your teachings, they've been my anchor in the fiercest of storms. Where is my sister and brother ?
+
+Master: The storm has passed, the calm returned. I am sorry, your sister died and your brother was taken prisoner by the remaining enemies.
+
+Samurai: Oh... (hafif aglama sesi)
+
+Master: Don't worry. Take this sword. Now you have harder way to rescue your brother. Path of Revenge.
+13.07.2023 16:29 - +386 70 184 824: bu da oyun sonu
+13.07.2023 16:29 - +386 70 184 824: 2.oyuna isik yakalim dedim belki hoslarina gider hani
+13.07.2023 16:31 - +90 532 176 24 50: gayet iyi olmuş bence
+13.07.2023 16:33 - Alperen ELMAS: Arkadaşlar mesajlarınızı okudum. Yanlış anlamayın kötü niyetli değilim ancak hevesini kırmak istemem. Demek istediğim bu kalan sınırlı zaman içinde kafanızda planladığınız fikirlerin hepsini uygulamaya dökemeyiz. Yalnızca en pratik olanlarını prototip mantığıyla uygulamaya dökebiliriz. Zamanımız da yok tecrübemiz de yok. Bence sadece girişte sinematik olabilir. Birde belki oyun bitince Credits tarzı sinematik olabilir. Zaten benim yapacağım da max 30dklık tek bir bölüm olacak. Daha fazlası çok olası değil. Can toplama mekaniği olur. Savaş mekaniği de olur. Dodge mekaniği de olur. Hatta 1-2 platform bile olabilir. Ancak ara sinematikler, cutsceneler, envater meknikleri ve silah geliştirme ile rpg mekanikleri için zamanımız yok bence. Çok detayın içinde boğuluruz. Bataklığa batarız. 2 çeşit düşman olsun bir bölüm de onlarla savaşalım yeter. Ha belki bölüm içinde canvas yardımıyla yazılı textler kullanarak diyalog ya da monologlar da olabilir. Tabi bunlar benim fikirlerim.
+13.07.2023 16:34 - +90 532 176 24 50: Zaten elimizden geleni vaktimiz yettiğince yapıcaz
+13.07.2023 16:35 - +90 532 176 24 50: 2 güne sana yetiştirebildiğimiz kadar işte
+13.07.2023 16:35 - +386 70 184 824: "From the heart of an ancient land, where cherry blossoms weep like sorrowful rain and mountains breathe through the veil of mist, the tale of a humble village nestles deep."
+
+"Born of this tranquil haven, nurtured beneath the shadows of monolithic peaks and the whispers of the ageless forest, was a girl of humble origins."
+
+"Blessed by the spirits of nature, and honed by the tempered will of destiny, the girl became a women; and the women, a samurai. Her heart throbbed with the rhythm of her village, and her soul mirrored the purity of its people."
+
+"Until one fateful day, when the air grew heavy with the stench of betrayal, and the sky bled crimson."
+
+"An enemy, ruthless and shrouded in shadows, descended upon the unsuspecting hamlet. Amidst the chaos, the samurai's master—his guiding light, his beacon of wisdom—was captured."
+
+"Her home was tainted. Her people were enslaved. Her master was taken. And the samurai, forged in the flames of honor, was left with nothing but the icy grip of vengeance."
+
+"But the spirit of the samurai does not falter in the face of adversity, it roars amidst the storm, it ignites amidst despair."
+
+"Now, he embarks on a relentless journey. A journey of redemption and revenge, of Honor and justice. To take back what was lost, to right the wrongs, and to carve the Path of Honor."
+
+"Armed with his indomitable will and the echoes of his master's teachings, he will confront the shadows. The enemy will taste the fury of his blade, the wrath of her Honor, and the thunder of his vengeance."
+
+"Will you brave this path? Will you embody the spirit of the samurai, and fight for Honor, for justice, for your people?"
+
+"Remember, a samurai's spirit never dies, it lives on in the tales of his bravery, the echoes of his sword, and the Path of her Honor."
+13.07.2023 16:35 - +90 532 176 24 50: sen level yaparken ara sahne yapımına yine devam edilebilir
+13.07.2023 16:35 - +386 70 184 824: Bu da intro
+13.07.2023 16:36 - +386 70 184 824: zaten su haliyle de atsak da mezun olucaz. derece denemiyceksek niye bu kadar ugrasalim
+13.07.2023 16:36 - +90 532 176 24 50: intro kısa olsun bence
+13.07.2023 16:37 - +386 70 184 824: alperen level design ne zaman biticek ve ne kadari yetisicek
+13.07.2023 16:37 - +386 70 184 824: arkadasinla konusursunuz oyle uzun uzun yazdim
+13.07.2023 16:37 - +386 70 184 824: guzel yerleri duzeltip kisaltip yollarsiniz kisa yaparim
+13.07.2023 16:37 - Alperen ELMAS: Siz bana gönderir göndermez son güne kadar çalışacağım.
+13.07.2023 16:37 - +386 70 184 824: neyi
+13.07.2023 16:38 - Alperen ELMAS: Bölümü ben yapacağım ya onu çalışacağım.
+13.07.2023 16:38 - +90 505 109 09 39: En gec hangi gun teslim etmemiz seni kurtarir
+13.07.2023 16:38 - Alperen ELMAS: Ayın 14'ü saat 23.59
+13.07.2023 16:39 - +386 70 184 824: @905051090939 @905423672102 dusman yetisir misiniz bugun peki ona gore belki ben de ugrasiyim
+13.07.2023 16:39 - +90 505 109 09 39: Ben animasyonlari topladim simdi
+13.07.2023 16:39 - +90 505 109 09 39: Idle , died, run, walk,
+13.07.2023 16:39 - +386 70 184 824: super o zaman. hazir video varsa direkt aynilarini yap gitsin
+13.07.2023 16:39 - +386 70 184 824: cok kasmaya gerek yok
+13.07.2023 16:39 - +90 532 176 24 50: düşmanı benim yaptığım videolara göre ayarlarsanız çok iyi olur sonradan sıkıntı çıkmasın birleştirmede
+13.07.2023 16:40 - +90 505 109 09 39: Animasyonlari daha birlestirmedim Umut eline ok ve yay verecek birde ölme kodu vs yazacak
+13.07.2023 16:40 - +90 532 176 24 50: @905369246361  sen şuan boştaysan egenin dediği t ye basınca sinirlenen düşman ayarlayabilir misin
+13.07.2023 16:40 - +90 505 109 09 39: Dc ye attiklarin mi
+13.07.2023 16:40 - +90 532 176 24 50: aynen
+13.07.2023 16:41 - +386 70 184 824: ustte gorev vari ve navigation ok yetistirebilir miyiz lokasyonlar icin
+13.07.2023 16:41 - +386 70 184 824: bari*
+13.07.2023 16:41 - +386 70 184 824: bar
+13.07.2023 16:42 - Alperen ELMAS: Yani t tuşuna basınca düşman sinirlenip bodoslama saldırıya mı geçiyor? Tam olarak anlamadım?
+13.07.2023 16:43 - +90 532 176 24 50: yarım kalmasın aklımızdakileri bitire bitire ilerleyelim vaktimiz kalırsa detaylara bakalım yetişirse yaparız tabi
+13.07.2023 16:43 - +386 70 184 824: bizim tek bir harita mi olucak simdi
+13.07.2023 16:43 - +90 532 176 24 50: öyle gözüküyo
+13.07.2023 16:44 - +386 70 184 824: tamam ya 40dk bir oyun ciksa
+13.07.2023 16:44 - +386 70 184 824: ara dusmanlar falan
+13.07.2023 16:44 - +386 70 184 824: baya yeterli
+13.07.2023 16:44 - +90 532 176 24 50: sandıktan bir şeyler de toplatıcam ben
+13.07.2023 16:45 - +386 70 184 824: bas dusman karakter texturelari ayarlayip, sun temple boss odasinin icine koy. T ye basinca sadece sinirlenicek. Benim video icin
+13.07.2023 16:45 - +90 505 109 09 39: Ben umutun karakterini cok begendim buarada ege seninkini bilmiyorum gerci ama birini secelim bence
+13.07.2023 16:45 - +386 70 184 824: karakter beyzada ya
+13.07.2023 16:45 - +90 532 176 24 50: ege metinleri benim attığım linkte toplayabilir misin
+13.07.2023 16:45 - +386 70 184 824: yeap
+13.07.2023 16:46 - +90 505 109 09 39: Aaa pardon ben ikiniz yaptiniz sandim
+13.07.2023 16:47 - Alperen ELMAS: Sinirlenme animasyonunu (yüz ifadesini) sen mi yapacan hazır mı olacak peki?
+13.07.2023 16:47 - +386 70 184 824: hazir ya
+13.07.2023 16:48 - +386 70 184 824: mixamodan bir animasyon bul boyle bagirirken kameraya tam savasmadan onceki gibi
+13.07.2023 16:48 - +386 70 184 824: o kadar
+13.07.2023 16:48 - +386 70 184 824: attim
+13.07.2023 16:48 - Alperen ELMAS: Tamam araştıracağım.
+13.07.2023 16:48 - +386 70 184 824: sorun cikicakti combatla birlestirirken beyza toptan tum karakteri yapti
+13.07.2023 16:49 - +90 532 176 24 50: yapıyorum diyelim skjdgkdshgkjs
+13.07.2023 16:49 - +386 70 184 824: yaparsin yaparsin hahaha
+13.07.2023 16:50 - +386 70 184 824: bugun aslinda dusman ve karakter biterse baya saglam bir sey cikartiriz teslime
+13.07.2023 16:50 - +90 505 109 09 39: Bence tam degilse umutunkine baksan sen düsmana agirlik ver
+13.07.2023 16:50 - +90 505 109 09 39: Bence
+13.07.2023 16:50 - +386 70 184 824: umutunki de ziplamiyordu, bir de combatlari yok savas icin umutta
+13.07.2023 16:51 - +90 505 109 09 39: Hmm combat yoktu dogru ziplama vardi ama siz daha hakimsiniz  👍
+13.07.2023 16:54 - +386 70 184 824: Aksam musait olan var mi dcde beraber calisalim
+13.07.2023 16:55 - +90 532 176 24 50: ege şu introyu kısaltsana benim arkadaş uğraşmaz o kadar
+13.07.2023 16:55 - +386 70 184 824: Ajdjdjdjdj tamam
+13.07.2023 16:55 - +90 532 176 24 50: ben videoya bakıyorum yapardım da
+13.07.2023 16:55 - +386 70 184 824: Eve gecince kisaltiyim
+13.07.2023 16:55 - +90 532 176 24 50: okay
+13.07.2023 16:55 - +386 70 184 824: Araba surucem simdi
+13.07.2023 19:36 - +90 532 176 24 50: @38670184824 bu üç sahneyi bir sahne kadar kısaltabilir misin
+13.07.2023 19:36 - +386 70 184 824: Nasil yani
+13.07.2023 19:37 - +386 70 184 824: Hepsinden birer tane cumle mi siliyim
+13.07.2023 19:37 - +90 532 176 24 50: yok giriş kısmı uzunluğunda olsun tüm sahnelerin toplamı
+13.07.2023 19:37 - +90 532 176 24 50: toplam yarım sayfalık bir şey
+13.07.2023 19:38 - +90 532 176 24 50: son tarih ne
+13.07.2023 19:38 - +90 532 176 24 50: ona göre yapiyim diyo
+13.07.2023 19:38 - +90 532 176 24 50: yarın akşama yetişmez dedi bir işi varmış
+13.07.2023 19:39 - +90 532 176 24 50: yarın akşama kadar giriş kısmını ayarlayabilirim sadece dedi
+13.07.2023 19:39 - +90 532 176 24 50: ya da kısaltıcaz mecbur
+13.07.2023 19:39 - +90 505 109 09 39: Cmtsi yapabilir mi
+13.07.2023 19:41 - +90 532 176 24 50: sanmıyorum ya kedisi ameliyat olucakmış
+13.07.2023 19:42 - +90 505 109 09 39: Hmm
+13.07.2023 19:42 - +90 532 176 24 50: evden kayıt alıcam dışarıdan ses gelicek kedi sesleri falan 6 cümle 1 saati bulur dedi kesintilerle
+13.07.2023 19:46 - +90 532 176 24 50: insan sesini kopyalayan bi ai vardı
+13.07.2023 19:46 - +90 532 176 24 50: o tarz bir şey deneyebiliriz
+13.07.2023 19:46 - +90 532 176 24 50: belki
+13.07.2023 19:47 - +90 532 176 24 50: bundan iş çıkmayacak
+13.07.2023 19:47 - +386 70 184 824: Tamam yyapicaj bir sey yok
+13.07.2023 19:47 - +386 70 184 824: Sagol yine de denedin en azindan
+13.07.2023 19:49 - +90 532 176 24 50: https://www.youtube.com/watch?v=JruKb-Zeze8
+13.07.2023 19:50 - +90 532 176 24 50: bu tarz bir şey
+13.07.2023 19:58 - +386 70 184 824: Tamam ilgileniyim bununla
+13.07.2023 20:13 - Alperen ELMAS: Arkadaşlar Boss olarak Mixamo'dan Dreyar isimli karakteri seçtim. Dediğiniz gibi Boss odasına koydum. T tuşuna basılı tutunca sinirleniyor T tuşunu bırakınca önceki İdle animasyona geri dönüyor. Sonra T'ye basılı tutunca yine sinirlendirebiliyorsunuz. Pushladım kendi branşıma.
+13.07.2023 20:21 - +386 70 184 824: Tamamdir cok sagol
+13.07.2023 20:26 - +90 532 176 24 50: karakter uyumlu gelmedi bana
+13.07.2023 20:33 - Alperen ELMAS: Aralarında en iyisi buydu hepsine baktım. Bence uyumlu çünkü zırh giymiş ve tipi de kötü karakteri andırıyor. Ama siz bilirsiniz.
+13.07.2023 21:58 - +386 70 184 824: Dc gecelim mi
+13.07.2023 22:00 - +90 532 176 24 50: geliyorum ben
+13.07.2023 22:00 - +90 532 176 24 50: yardım lazım
+13.07.2023 22:03 - +386 70 184 824: Dcdeyim
+13.07.2023 22:03 - +90 532 176 24 50: 10 dk ya geliyorum
+13.07.2023 22:03 - +386 70 184 824: Tamam ben de birkac is hallediyim o sirada
+13.07.2023 23:56 - +386 70 184 824: @905321762450 ben ciktim
+13.07.2023 23:56 - +386 70 184 824: Cok uykum geldi
+14.07.2023 05:54 - +90 542 367 21 02: Okçu düşmanı bitirmeme çok az kaldı yavaştan yatıyorum yarın akşam bitmiş olur diye düşünüyorum galiba
+14.07.2023 09:43 - +90 532 176 24 50: Süper
+14.07.2023 09:46 - +90 532 176 24 50: Arkadaşlar bir sağlık problemi yaşıyorum birkaç saat dinlenmem gerek ve dışarıda yapmam gereken şeyler var bu sebeple öğleden sonra videolara devam edebileceğim
+14.07.2023 09:47 - +90 532 176 24 50: Müsait olan varsa benim branchten kaldığım yerden devam edebilirse süper olur sonrasında ben tekrar devam ederim
+14.07.2023 09:53 - +90 505 109 09 39: Gecmis olsun Beyza ben dısardayım şuan ne zaman gecerim bilmiyorum :(
+14.07.2023 09:55 - +386 70 184 824: Iyi misin gecmis olsun
+14.07.2023 09:58 - +90 532 176 24 50: İyiyim iyiyim belimi sakatladim sadece
+14.07.2023 09:59 - +90 532 176 24 50: Sağ olun arkadaşlar
+14.07.2023 10:00 - +90 505 109 09 39: Fena yaa benim de bobrekler belime vuruyordu hala tam gecmedi ama cok sıkıntı bel oturamiyorsun yatamiyorsun ayakta dursan o da az bir sure 😞
+14.07.2023 10:05 - +90 532 176 24 50: Aynen öyle valla ya
+14.07.2023 10:06 - +90 505 109 09 39: Umarım biran once iylesir 💕
+14.07.2023 10:13 - +386 70 184 824: Gecmis olsun ya
+14.07.2023 10:13 - +386 70 184 824: Senin brachte karakterin elinde kilic var mi
+14.07.2023 10:13 - +386 70 184 824: Videoyu hallediyim bugun diyorum
+14.07.2023 10:14 - +90 532 176 24 50: Kılıç ekledim commitledim
+14.07.2023 10:14 - +90 532 176 24 50: Pushladim mi emin değilim
+14.07.2023 10:15 - +90 532 176 24 50: Bilgisayardaysan bi kontrol edebilir misin
+14.07.2023 10:15 - +90 532 176 24 50: Ona göre pushlayayım hemen
+14.07.2023 10:17 - +386 70 184 824: Ben desktop kullanamiyorum
+14.07.2023 10:17 - +386 70 184 824: Pushla istersen garanti olsun
+14.07.2023 10:18 - +386 70 184 824: Cunku kod sistemiyle kullaniyorum
+14.07.2023 10:18 - +386 70 184 824: Oyle sorunsuz aliyorum tum assetleri
+14.07.2023 10:20 - +90 532 176 24 50: Tamam bakıyorum şimdi
+14.07.2023 10:21 - +90 532 176 24 50: Pushlamışım
+14.07.2023 10:21 - +90 532 176 24 50: Yeni branch açmıştım
+14.07.2023 10:21 - +90 532 176 24 50: combat-system diye
+14.07.2023 10:21 - +386 70 184 824: Super
+14.07.2023 10:21 - +90 532 176 24 50: Son hali orada
+14.07.2023 10:22 - +386 70 184 824: Videoyu bugun hallederim gibi
+14.07.2023 10:22 - +90 532 176 24 50: Tamamdır
+14.07.2023 10:22 - +90 532 176 24 50: Sesi denedin mi
+14.07.2023 10:28 - +386 70 184 824: <Medya dahil edilmedi>
+14.07.2023 10:28 - +386 70 184 824: deniycem ya ilk videoyu hallediyim
+14.07.2023 10:29 - +386 70 184 824: her turlu video olmasi lazim
+14.07.2023 10:30 - +90 532 176 24 50: Eline sağlık
+14.07.2023 10:35 - +386 70 184 824: Ne demek
+14.07.2023 10:35 - +386 70 184 824: Bu arada her proje save alamiyorum
+14.07.2023 10:35 - +386 70 184 824: Elimden geldigince guzel yapicam ama degistirme sansimiz pek olmuycak sonra
+14.07.2023 10:53 - +386 70 184 824: @905321762450 brach adi neydi
+14.07.2023 10:53 - +90 532 176 24 50: .
+14.07.2023 10:55 - +386 70 184 824: Ona gecmiyo ya
+14.07.2023 10:55 - +386 70 184 824: <Medya dahil edilmedi>
+14.07.2023 10:55 - +386 70 184 824: Beyzaya geciyor da
+14.07.2023 10:57 - +90 532 176 24 50: <Medya dahil edilmedi>
+14.07.2023 10:57 - +90 532 176 24 50: Anlamadım sebebini
+14.07.2023 11:00 - +386 70 184 824: Neyse bakicam sifirdan cloneluyorum
+14.07.2023 11:00 - +386 70 184 824: Bizim karakterde yatma animasyonu var mi
+14.07.2023 11:00 - +386 70 184 824: Biliyor musun
+14.07.2023 11:00 - +90 532 176 24 50: Ben senin branchine geçip merge yapıyım istersen
+14.07.2023 11:00 - +386 70 184 824: Diyorum ki
+14.07.2023 11:00 - +90 532 176 24 50: Yok da yapariz
+14.07.2023 11:00 - +386 70 184 824: Yatiriyim karakteri yine t tusuyla
+14.07.2023 11:00 - +386 70 184 824: Gozlerinden baslasin hikaye
+14.07.2023 11:00 - +90 532 176 24 50: Güzel olur
+14.07.2023 11:01 - +386 70 184 824: Cok seri yapabilir miyiz ben digerlerini yaparken
+14.07.2023 11:01 - +90 532 176 24 50: Gözlerini shoplayabilir misin peki hdhdhdh
+14.07.2023 11:01 - +386 70 184 824: Aaaa
+14.07.2023 11:01 - +386 70 184 824: Nasil bir shop
+14.07.2023 11:01 - +90 532 176 24 50: Kısık olsun diye
+14.07.2023 11:01 - +386 70 184 824: Ya yaparim da
+14.07.2023 11:01 - +386 70 184 824: Cok gereksiz zaman kaybederiz
+14.07.2023 11:01 - +386 70 184 824: Bu tarz seyler gercekten zaman aliyo
+14.07.2023 11:01 - +90 532 176 24 50: Tamam sal o zaman boşver
+14.07.2023 11:02 - +386 70 184 824: O zaman yatak sahnesi olmasin
+14.07.2023 11:02 - +90 532 176 24 50: Alperenin yaptığı sinirlenme animasyonu var ya
+14.07.2023 11:02 - +90 532 176 24 50: Onda karakterle animasyonu değiştiririz
+14.07.2023 11:02 - +90 532 176 24 50: Olsun ya iyi fikir
+14.07.2023 11:57 - +386 70 184 824: Nasil yapabiliriz o zaman
+14.07.2023 11:58 - +386 70 184 824: Kilic seylerini cekemedim
+14.07.2023 11:58 - +90 532 176 24 50: Ben senin branchine merge yapiyim mi
+14.07.2023 11:58 - +90 532 176 24 50: Normal kalsın shop a gerek yok
+14.07.2023 11:59 - +386 70 184 824: Olur
+14.07.2023 11:59 - +386 70 184 824: Hangisine yapican
+14.07.2023 11:59 - +386 70 184 824: Beyzaya yapabilir misin
+14.07.2023 11:59 - +386 70 184 824: Eger kullanmiyorsan
+14.07.2023 11:59 - +90 532 176 24 50: Tamamdır
+14.07.2023 12:00 - +90 532 176 24 50: Hallettim
+14.07.2023 13:36 - +386 70 184 824: Karakter hangi sahnede
+14.07.2023 13:36 - +386 70 184 824: Videoyu bitiriyorum ya iyi kotu
+14.07.2023 13:36 - +386 70 184 824: Artik yapicak bir sey yok
+14.07.2023 13:36 - +386 70 184 824: Anca animasyonlu bu kadar cikar elimdeki zaman ve ekipmanla
+14.07.2023 13:42 - +386 70 184 824: Bulamadim kilicli bir sahne
+14.07.2023 13:45 - +386 70 184 824: Neyse kilicli sahne koymuycam uzun olucak zaten giris
+14.07.2023 13:56 - +90 532 176 24 50: Nasıl bulamadın ya eve geçince yardımcı olurdum aslında
+14.07.2023 13:56 - +90 532 176 24 50: Neyse oyun videosuna koyarız
+14.07.2023 13:56 - +90 532 176 24 50: Nasıl rahat ediceksen
+14.07.2023 14:05 - +90 505 109 09 39: <Medya dahil edilmedi>
+14.07.2023 14:26 - +386 70 184 824: Ya oyle yapalim
+14.07.2023 14:26 - +386 70 184 824: Intro 1 dk surdu
+14.07.2023 14:27 - +386 70 184 824: Start game tikladiginda 1 dk oyun hikaye tanitimi
+14.07.2023 14:27 - Alperen ELMAS: Tamamdır ben formu doldururum. Bu arada ilk 14'e girilmediği sürece Unity çıktısı almak zorunlu değilmiş. Sadece 1 dakikalık video ve GitHub olsun yeter demişler. <Bu mesaj düzenlendi>
+14.07.2023 14:27 - +386 70 184 824: Ben oyle bir video yaparim ki 1 dk
+14.07.2023 14:27 - +386 70 184 824: Ilk 7 kesin o zaman
+14.07.2023 14:27 - +386 70 184 824: Sonra elenmece hahaha
+14.07.2023 14:27 - Alperen ELMAS: Videoyu Ege yapar ben linki forma koyarım.
+14.07.2023 14:28 - +90 505 109 09 39: Bence de bu konuda cidden yetenekli Ege bana da ogretsene :)
+14.07.2023 14:28 - +386 70 184 824: Ogretiyim ayipsin
+14.07.2023 14:29 - +386 70 184 824: Ya video cok cok iyi olmadi ama bence boyle video animasyon yapan cikmamistir 159 oyun grubundan
+14.07.2023 14:29 - +386 70 184 824: Aaa tamam o zaman
+14.07.2023 14:29 - +386 70 184 824: Son teslim ne zamandi
+14.07.2023 14:29 - +386 70 184 824: Video icin
+14.07.2023 14:29 - Alperen ELMAS: Ayın 18'i saat 12'ye kadar. <Bu mesaj düzenlendi>
+14.07.2023 14:29 - +386 70 184 824: Uzattilar mi
+14.07.2023 14:30 - Alperen ELMAS: Ama 17'sinde bitir sen bence. <Bu mesaj düzenlendi>
+14.07.2023 14:30 - Alperen ELMAS: Uzatmayacaklar.
+14.07.2023 14:30 - +386 70 184 824: 28ine kadar biz cok baya ilerleriz ya
+14.07.2023 14:30 - +386 70 184 824: Baya zaman var o zaman
+14.07.2023 14:30 - Alperen ELMAS: Yanlış söyledim 18'i.
+14.07.2023 14:30 - Alperen ELMAS: Pardon.
+14.07.2023 14:30 - +386 70 184 824: Ben 18i saniyordum
+14.07.2023 14:30 - +386 70 184 824: Hee tamam
+14.07.2023 14:30 - +386 70 184 824: Tamam 17si gece bitiririm
+14.07.2023 14:30 - Alperen ELMAS: Pardon dilim sürçmüş.
+14.07.2023 14:31 - +386 70 184 824: O zaman ilk 7ye oynayalim
+14.07.2023 14:31 - +386 70 184 824: Ilk 3 zor
+14.07.2023 14:31 - +386 70 184 824: Unity ciktisi sonrasi
+14.07.2023 14:31 - +386 70 184 824: Bu assetlerle ilk 7 garanti
+14.07.2023 14:31 - +386 70 184 824: Dovus sahnelerine odaklanalim
+14.07.2023 14:31 - Alperen ELMAS: Video linkini buraya atarsın bende forma koyarım.
+14.07.2023 14:31 - +386 70 184 824: Gerisi bende soz
+14.07.2023 14:31 - +386 70 184 824: Acil level designa gecmemiz lazim o zaman
+14.07.2023 14:32 - +386 70 184 824: Dusman ve idle hareketli samurai ustasi yapip sana teslim edilmeli bir an once
+14.07.2023 14:32 - Alperen ELMAS: Bu geceye kadar gönderin bence. Daha fazlası benim zamanımdan gider.
+14.07.2023 14:32 - +386 70 184 824: 1 dklik videoysa aldik ilk 7xi
+14.07.2023 14:32 - +386 70 184 824: Ama sonrasi biraz bize bagli
+14.07.2023 14:33 - +386 70 184 824: Videoda telifli muzik kullanabilir miyim
+14.07.2023 14:33 - +386 70 184 824: Oyun icinde kullanmadim da
+14.07.2023 14:33 - Alperen ELMAS: Çıktı zorunlu değil ilk 14'e girdikten sonra bakacaklar. Video ve GitHub istiyorlar. Müzik konusunda free sound olsun CC0.
+14.07.2023 14:36 - +90 532 176 24 50: Bu geceye yetiştiricem ben
+14.07.2023 14:38 - +90 532 176 24 50: Fatma sen bakabildin mi videolara
+14.07.2023 14:38 - +90 532 176 24 50: @905051090939
+14.07.2023 14:43 - +386 70 184 824: <Medya dahil edilmedi>
+14.07.2023 14:44 - +386 70 184 824: goruntu kalitesi cok daha iyi farkli gercekte
+14.07.2023 14:44 - +386 70 184 824: whatsapptan dolayi boyle
+14.07.2023 14:46 - +386 70 184 824: Konsept bu tarz oldu yani eldeki zamanla
+14.07.2023 14:47 - +90 532 176 24 50: Gayet iyi sadece bazı yerler daha kısa olabilir sanki
+14.07.2023 14:47 - +90 505 109 09 39: Ben dun animatorle ugrastim sonra izlecektim  gece kodda takilinca umutla paslastik zaten o kisimleri ben halledecem diyince izlemedim
+14.07.2023 14:47 - +90 505 109 09 39: Super olmuş yaziyi bi tık buyutmen mumkün mü gerci pc de acmadim telde kucuk geldi
+14.07.2023 14:48 - +386 70 184 824: Ya yaziyi buyutme isi biraz karisik bir de tum ekran yazi olsun istemedim
+14.07.2023 14:48 - +90 505 109 09 39: Yok olmasin ben  mesela13 ten 15 yapabilir misin diye dedim ama bu haliyle de guzel
+14.07.2023 14:49 - +386 70 184 824: 1 dk tutuyo intro
+14.07.2023 14:49 - +386 70 184 824: Ozellikle uzun tuttum ya
+14.07.2023 14:49 - +386 70 184 824: Oyunu gelistirirsek kisaltirim
+14.07.2023 14:49 - +386 70 184 824: Biraz zaman zaman alsin dedim hadhhhd
+14.07.2023 14:51 - +90 505 109 09 39: Eline saglik Ege cok guzel olmus
+14.07.2023 14:54 - +386 70 184 824: Ne demek
+14.07.2023 20:37 - +90 532 176 24 50: @905423672102  @905051090939  düşman için hangi karakteri kullandınız aynısını kullanmayayım
+14.07.2023 20:37 - +90 542 367 21 02: Erica yı kullandık
+14.07.2023 20:37 - +90 542 367 21 02: Okçu olan
+14.07.2023 20:37 - +90 542 367 21 02: Çünkü yayı falan hazırdı
+14.07.2023 21:10 - +90 532 176 24 50: Bana yardım edebilecek biri var mı
+14.07.2023 21:10 - +90 532 176 24 50: Belim çöktü jdjdjxjxjxjx
+14.07.2023 21:23 - +90 542 367 21 02: Ahsjsjdkskdkdkdk hocam az kaldı benim ki bitmek üzere
+14.07.2023 21:44 - +90 532 176 24 50: 20 dk lık düşman videosu kaldı
+14.07.2023 21:45 - +90 532 176 24 50: Biriniz bakabilirse iyi olur
+14.07.2023 21:45 - +90 532 176 24 50: Ben bakabilecek gibi değilim
+15.07.2023 00:11 - +386 70 184 824: Neye bakalim
+15.07.2023 00:11 - +386 70 184 824: Ben bakiyim istersen
+15.07.2023 00:12 - +386 70 184 824: O kadar mi kotu oldun ya gecmis olsun
+15.07.2023 00:14 - +90 542 367 21 02: Geçmiş olsun cidden ne oldu
+15.07.2023 00:20 - Alperen ELMAS: Geçmiş olsun ne oldu peki?
+15.07.2023 02:32 - +90 542 367 21 02: Bitirdim ben okçu düşmanı
+15.07.2023 02:32 - +90 542 367 21 02: Ok atıyor vurabiliyor belirlediğimiz rastgele yerlerde git gel yapıyor arada duruyor falan hedefine girersek bizi takip etmeye başlıyor
+15.07.2023 03:23 - +90 532 176 24 50: https://youtu.be/tbnUxXrRg4s
+15.07.2023 03:24 - +90 532 176 24 50: Bu video kaldı
+15.07.2023 03:24 - +90 532 176 24 50: Bir de egenin yaptığı kamera eklenicek
+15.07.2023 03:25 - +90 532 176 24 50: Pushladım
+15.07.2023 03:25 - +90 532 176 24 50: Benim branche geçip devam edebilirsiniz
+15.07.2023 03:25 - +90 532 176 24 50: Bir sorun olursa buradan destek atarım
+15.07.2023 03:27 - +90 532 176 24 50: Uzun süre oturur pozisyonda kalınca ağrılarım artti baya sağ olun geçmiş olsun mesajlarınız için
+15.07.2023 03:30 - +90 505 109 09 39: Gecmiş olsun Beyza umarım biran once iylesir belin🙏🏻
+15.07.2023 09:30 - +90 532 176 24 50: Videoya kim bakıyo şimdi
+15.07.2023 09:30 - +90 532 176 24 50: Birkaç bir şey söyleyeceğim
+15.07.2023 11:15 - +386 70 184 824: Ben
+15.07.2023 11:15 - +386 70 184 824: Aaa pardon
+15.07.2023 11:15 - +386 70 184 824: Genel video sandim
+15.07.2023 11:18 - +90 532 176 24 50: Bundan bahsediyorum
+15.07.2023 11:19 - +90 532 176 24 50: Aslında @905369246361 müsaitsen senin yapman daha mantıklı olabilir level hazırlarken kolaylık olur
+15.07.2023 11:22 - Alperen ELMAS: Arkadaşlar yapmak isteyen var mı yoksa ben sorumluluğu ele alacağım. Ancak bu konuda tecrübe eksikliğim olduğu için bana biraz zaman kaybettirebilir. Yine de eğer yapmak isteyen yoksa sorumluluğu ben ele alabilirim?
+15.07.2023 11:22 - +386 70 184 824: Ben diger kisimlarla ilgileniyorum
+15.07.2023 11:22 - +386 70 184 824: Sen yap takilirsan sor
+15.07.2023 11:22 - +386 70 184 824: Evdeyim bugun animasyon menuyu bitirmek istiyorum
+15.07.2023 11:23 - +90 532 176 24 50: Aynen videoyu takip edince sorun çıkmıyo
+15.07.2023 11:23 - +90 532 176 24 50: Alperen her videonun altında pastebin linki var kodların olduğu
+15.07.2023 11:23 - +90 532 176 24 50: Ama türkiyede erisimi kapalı
+15.07.2023 11:24 - +90 532 176 24 50: Proxy.com a linki yapıştırınca açılıyo site
+15.07.2023 11:25 - +90 532 176 24 50: Takıldığın her yerde bana yazabilirsin yardımcı olacağım
+15.07.2023 11:26 - +90 532 176 24 50: Bazı dosyalardan birden fazla var en usttekiler en güncel hali oluyo
+15.07.2023 11:26 - Alperen ELMAS: Tamam o zaman herkes bana gönderilmesi gerekenleri kendi branşına pushlasın. Bende hepsini kendime çekip başlayayım. <Bu mesaj düzenlendi>
+15.07.2023 11:26 - +90 532 176 24 50: Benimki combat-system da şuan
+15.07.2023 11:26 - Alperen ELMAS: Seninkini çektim.
+15.07.2023 11:26 - +90 532 176 24 50: Tamamdır
+15.07.2023 14:26 - Alperen ELMAS: Arkadaşlar yakıncı düşman için galiba bir model seçilmemiş. Eğer model yoksa kendim pratik bir model seçeceğim.
+15.07.2023 15:36 - Alperen ELMAS: Arkadaşlar ana karakter de bazı teknik sorunlar var. Geri geri gidince ileri gitme animasyonu ile geri gidiyor ve kamera bayağı titriyor. Ancak birşeyler bakacağım tabi.
+15.07.2023 15:39 - +90 532 176 24 50: Bende düzgündü
+15.07.2023 15:39 - +90 532 176 24 50: Egenin kamerayı mı ekledin
+15.07.2023 15:40 - +90 505 109 09 39: Cakisma mi var acaba
+15.07.2023 15:40 - +90 532 176 24 50: Alperen benim branche gidip bi kontrol edebilir misin
+15.07.2023 15:40 - +90 532 176 24 50: Eğer problem yoksa dosyaları benim branche taşıyıp deneyebilirsin
+15.07.2023 15:42 - Alperen ELMAS: Senin kamerayi ekledim önceki yaptığın kamerayı. Sonra silip kendim de kamera ekledim birşey değişmedi. Ancak olay sadece geri gidince oluyor. Çünkü geri gitme özelliği animatorde yok. Ancak S tuşuna basınca geri gitme özelliğini kaldırdım. Düzeldi. Sadece WAD çalışıyor. Ancak AD tuşlarının verdiği rotasyon ile geri gidilebilir.
+15.07.2023 15:43 - +90 532 176 24 50: Animasyonu hemen halledilir onun yapabiliyosan bir dene olmadı desteğe geliriz
+15.07.2023 15:44 - +90 532 176 24 50: Benim kamera sıkıntılıydı zaten
+15.07.2023 15:44 - +386 70 184 824: bir boynum tutuldu anlatamam ahshshsh dun sirkette halisaha yaptik
+15.07.2023 15:44 - +386 70 184 824: Allahtan duz bakabiliyorum da laptop kucagimda calisiyorum menu icin hahsdhhddhp
+15.07.2023 15:44 - +386 70 184 824: Ne sola ne saga donuyo
+15.07.2023 15:45 - +90 532 176 24 50: Videoda cinemachine kullanmis hasar alınca kamera titriyo falan o güzel aslında ama kapılar sıkıntı işte
+15.07.2023 15:45 - Alperen ELMAS: :D Arkadaşlar bizim takımda lanet (kara büyü) falan var herhalde. Geçmiş olsun.
+15.07.2023 15:45 - +90 532 176 24 50: Hsjxjsjdj noldu böyle ya nazara mı geldik
+15.07.2023 15:45 - +386 70 184 824: Ya benim kamerayi kullansaniza
+15.07.2023 15:46 - +90 532 176 24 50: Alperen bi sağlam sen kaldın jdjsjsnd
+15.07.2023 15:46 - +386 70 184 824: Onun scriptleri halledicem
+15.07.2023 15:46 - +386 70 184 824: Suanlik boyle koyun
+15.07.2023 15:46 - +386 70 184 824: Zaten cok iyi calisiyo
+15.07.2023 15:46 - +90 532 176 24 50: Aynen aynen
+15.07.2023 15:46 - +386 70 184 824: Sadece rotasyon kisitlamalari ekliycem
+15.07.2023 15:46 - +386 70 184 824: Bir de objeye degdiginde otomatik zoom
+15.07.2023 15:46 - +386 70 184 824: Kolay isler suanlik boyle koyun
+15.07.2023 15:47 - Alperen ELMAS: S tuşunu kaldırdım. Sıkıntı yok şu an. Zaten A ve D ile geri gidiliyor. Kendi kameramla da birşey dğeişmedi. Ege kameranı pushla istersen.
+15.07.2023 15:48 - +90 532 176 24 50: S olsun ama ya onu ekleyelim
+15.07.2023 15:48 - Alperen ELMAS: O zaman titriyor ve ileri gitme animasyonu oluyor.
+15.07.2023 15:48 - +90 532 176 24 50: Düşman çalışıyo mu
+15.07.2023 15:48 - +90 532 176 24 50: Var mı bi sıkıntı
+15.07.2023 15:49 - Alperen ELMAS: Düşmana henüz yeni geçebildim. Animasyonları indirdim. Videodakileri yapmayı deneyecem şimdi.
+15.07.2023 15:49 - +90 532 176 24 50: Tamam bakıcaz artık ona
+15.07.2023 15:49 - +386 70 184 824: S kaldirilamaz ya 😀
+15.07.2023 15:49 - +90 505 109 09 39: Gecmis olsun  Ege
+15.07.2023 15:49 - +386 70 184 824: Duzeltelim onu olur mu oyle sey
+15.07.2023 15:49 - +90 532 176 24 50: Alperen benim branchte de aynı sorun var mı kontrol edebildin mi
+15.07.2023 15:50 - +90 505 109 09 39: Bir sana bişe olmadı Alperen son dk golu atma bize kendine iyi bak :)
+15.07.2023 15:50 - +90 505 109 09 39: Bunu gormeden yazdim 😂
+15.07.2023 15:50 - +90 532 176 24 50: Hxjxjdjdjjdjdjx
+15.07.2023 15:51 - Alperen ELMAS: Tamam Beyza'nın branşa bakacam şimdi.
+15.07.2023 15:53 - Alperen ELMAS: Beyza senin kameranda sıkıntı yok ancak kamera karakteri takip etmediği için. Karakteri takip ederse bence seninkinde de olacaktır.
+15.07.2023 15:54 - +90 532 176 24 50: Egenin kamerayi deneyelim o zaman
+15.07.2023 15:55 - +90 532 176 24 50: Bakalım yine aynı problem olucak mı
+15.07.2023 15:55 - Alperen ELMAS: Ege pushladın mı dosyaları kendi branşına?
+15.07.2023 15:55 - +90 532 176 24 50: Benim kamera titriyodu cunku zaten
+15.07.2023 15:55 - +90 542 367 21 02: Düşman derken
+15.07.2023 15:56 - +90 542 367 21 02: Okçu düşmanı bitirdim
+15.07.2023 15:56 - +90 542 367 21 02: Başka yapıcak mıyız
+15.07.2023 15:57 - Alperen ELMAS: Evet melee düşman yapacağız. Sorumluluğu ben aldım. Şu an onu yapmaya çalışacağım. Sen kendi branşına yeni değişikliklerini pushlar mısın?
+15.07.2023 16:00 - +386 70 184 824: Pushliyim
+15.07.2023 16:10 - +90 542 367 21 02: Tabiki eve geçer geçmez pushluyorum
+15.07.2023 16:16 - +386 70 184 824: @905369246361 hangi brache pushliyim
+15.07.2023 16:16 - +386 70 184 824: Musaitsen discorda gel kamera mantigini anlatiyim
+15.07.2023 16:16 - Alperen ELMAS: Tm 1 dakkaya geliyorum.
+15.07.2023 16:17 - Alperen ELMAS: Geldim bile.
+15.07.2023 16:35 - Alperen ELMAS: Ege kamerayı koydum ancak koordinatların ayarlanması gerekiyor.
+15.07.2023 16:35 - Alperen ELMAS: Ancak biraz uğraşacağım tabiki de.
+15.07.2023 16:46 - Alperen ELMAS: Arkadaşlar Ege'nin kamerası da aynı. Birşey değişmedi. En iyisi S tuşunu kaldıralım. Zaten şimdilik bu soruna ara verip düşman ile uğraşmam gerekiyor.
+15.07.2023 16:47 - +90 532 176 24 50: Sen şimdilik düşmana bak
+15.07.2023 16:47 - +90 532 176 24 50: Onu hallederiz
+15.07.2023 16:54 - +386 70 184 824: Tamam
+15.07.2023 17:55 - +90 542 367 21 02: Pushlamama yardım edebilecek biri var mı ya
+15.07.2023 17:55 - +90 542 367 21 02: Ben pek bilmiyorum bi şeyker olur diye korktum jsjdkddkdkdk
+15.07.2023 17:55 - +90 505 109 09 39: Kendi commitindesin dimi
+15.07.2023 17:55 - +90 505 109 09 39: Branch
+15.07.2023 17:55 - +90 505 109 09 39: Diyecektim
+15.07.2023 17:56 - +90 505 109 09 39: Ben yanlislikla maindeydim tum yaptiklarim gitmisti 🤦‍♀️
+15.07.2023 17:56 - +90 542 367 21 02: Umut_Yeni diye bi branche pushluyorım şuan
+15.07.2023 17:56 - +90 505 109 09 39: Sana tek tavsiyem scriptlerini bi yere kopyala
+15.07.2023 17:56 - +90 505 109 09 39: Super
+15.07.2023 17:57 - +90 542 367 21 02: Peki nasıl birleştiricez tüm bu branchleri en son
+15.07.2023 17:57 - +90 505 109 09 39: Alperen o yuzden gün istedi diye biliyorum
+15.07.2023 17:58 - +90 505 109 09 39: O kisim sıkıntı umarım hata almadan teslim ederiz
+15.07.2023 18:00 - +90 542 367 21 02: Hadi bakalım
+15.07.2023 18:05 - Alperen ELMAS: Umut şimdilik kendi branşına pushla bende senin sciptlerinden uyarlama yaparak melee düşmanları ayarlarım. Çünkü videodaki biraz karışık gibi. Ama mücadeleye devam.
+15.07.2023 18:14 - +90 542 367 21 02: Tamamdırr
+15.07.2023 18:31 - Alperen ELMAS: Umut peki prefabı yok mu scriptlerinin ve componentlerin üzerinde olduğu?
+15.07.2023 18:39 - +90 542 367 21 02: Hocam prefablerim onda sorun yokk
+15.07.2023 18:39 - +90 542 367 21 02: Şuan bir kaç hata farkettim onları düzeltiyorum
+15.07.2023 18:40 - Alperen ELMAS: Bazı scriptleri MonoBehaviour olmadığı için üzerine atayamayacağımı söylüyor. Ayriteyen sadece Model dosyaları var. Prefab dosyası nerede peki?
+15.07.2023 18:49 - +90 542 367 21 02: Hocam bazı scripler animasyon scriptleri
+15.07.2023 18:49 - +90 542 367 21 02: Müsaitsen dc yapalım istersen
+15.07.2023 18:49 - +90 542 367 21 02: Karakterin üzerine atılmayacak bazı scripler çünkü
+15.07.2023 19:51 - Alperen ELMAS: Ne zaman müsaitsin?
+15.07.2023 19:51 - +90 542 367 21 02: Hocam 5 dk ya müsaitim geliyorum sen
+15.07.2023 19:51 - Alperen ELMAS: Tamamdır dc deyim. Seslenirsin.
+15.07.2023 19:51 - +90 542 367 21 02: Tamamdır
+15.07.2023 20:54 - Alperen ELMAS: Arkadaşlar Umut herşeyi biliyor ancak size de açıklamam gerekenler var. Umut'un branşını kendime çektikten sonra henüz nedenini tespit edemediğim durumlardan dolayı branşımdaki dosyalar silindi. Birleştirme esnasında Safe Mode Ignore seçenekleri çıkmıştı. Çünkü compliation error vermişti. Ignore yapmaktan olabilir diye tahmin ediyorum. 2. ci olası neden ise bugün ben bir ara GitDesktop'a girer girmez ben pull yapmadığım halde epey fazla bir dosya otomatik olarak bana çekildi bundan da olabilir belki. Sonuç olarak bu sabah saat 10-11 civarında yaptığım commite geri döndüm ancak Alperen-Yedek branş ismiyle döndüm. <Bu mesaj düzenlendi>
+15.07.2023 20:55 - Alperen ELMAS: Umut zaten ranged unit yaptı meleeyi de yapınca bana gönderecek bende 10 dklık kısa bir bölüm yapacam. Ege'de ondan 1 dakkalık güzel bir video çıkarır. İlk 7'ye belki gireriz.
+15.07.2023 20:55 - Alperen ELMAS: Zaten çıktı istenmiyor sadece GitHub ile video linki isteniyor. Yani Ege'nin videosu önemli.
+15.07.2023 22:32 - +386 70 184 824: Ne oldu simdi
+15.07.2023 22:33 - +386 70 184 824: Oyun ana dosyalari mi gitti
+15.07.2023 22:34 - Alperen ELMAS: Bugün sabah Saat 10-11'deki commite döndüm.
+15.07.2023 22:37 - Alperen ELMAS: Ancak diğer branşlarda sorun yok. Alperen branşı sıkıntılı. Ancak Alperen-Yedek isimli branş saat 10-11 deki commiti içeriyor ve güvenli. <Bu mesaj düzenlendi>
+15.07.2023 22:47 - +90 505 109 09 39: Aaaaa
+15.07.2023 22:48 - +386 70 184 824: :(
+15.07.2023 22:48 - +386 70 184 824: Ya o ilk 7ye nasil oynuycaz ki
+15.07.2023 22:48 - +386 70 184 824: Iyi bir video materyali lazim
+15.07.2023 22:49 - +90 505 109 09 39: Baskasinda tamsa ondan ceksen Alperen
+15.07.2023 22:49 - +90 505 109 09 39: Beyzadan ya da umuttan
+15.07.2023 22:54 - +386 70 184 824: Fatma bir sey sorucam
+15.07.2023 22:54 - Alperen ELMAS: Yok zaten Umut gönderince yeniden çekcem zaten. O açıdan sıkıntı yok.
+15.07.2023 22:54 - +386 70 184 824: Button ekleme olayi nasil oluyo menuda
+15.07.2023 22:55 - +90 505 109 09 39: Ben button atamadim istersen yarin yapim yani o dedigin şekildeyse ama daha farkli istiyorsan sana anlatayim
+15.07.2023 22:55 - +90 505 109 09 39: Ben text atadim button u yan panelden atmistim
+15.07.2023 22:56 - +90 505 109 09 39: Simdi onlari silip yeniden buton atamak lazim <Bu mesaj düzenlendi>
+15.07.2023 22:56 - +90 505 109 09 39: Sadece yarın 2 ye kadar online derste asistanlik yapiyorum 2 den sonra bakabilirin
+15.07.2023 22:58 - +386 70 184 824: Olur
+15.07.2023 22:58 - +386 70 184 824: Benim attigim fotodaki gibi yapabilirsen iyi olur
+15.07.2023 22:58 - +386 70 184 824: Cunku madem benim videoya kaldi ilk 7
+15.07.2023 22:58 - +90 505 109 09 39: Yarin hallederim insallah
+15.07.2023 22:58 - +386 70 184 824: Ben direkt videoya basliyim animasyon ugrasmiyim
+15.07.2023 22:59 - +386 70 184 824: Iyi bir video cikartmak cok zor
+15.07.2023 22:59 - +386 70 184 824: Detayli bakmam gerekicek
+15.07.2023 22:59 - +386 70 184 824: Yarin birkac savas sahnesi cikartir miyiz peki oyundan
+15.07.2023 22:59 - +386 70 184 824: Bana en gec pazartesi sabaha kadar savas sahnesi lazim
+15.07.2023 23:00 - +386 70 184 824: Birkac sahne normal dusmanlarla
+15.07.2023 23:00 - +386 70 184 824: Bir sahne bossla
+15.07.2023 23:00 - +386 70 184 824: Bir sahne de ustayla
+15.07.2023 23:00 - +90 505 109 09 39: Tamam buttonu kismini yarin hallederim cok yorgunum bugun bakim yine de ama uyuyabilirim diye.yarin diyorum
+15.07.2023 23:00 - +386 70 184 824: Tamam olur
+15.07.2023 23:00 - +386 70 184 824: Yazilari kucult
+15.07.2023 23:00 - +386 70 184 824: Button ekle o kadar
+15.07.2023 23:01 - +386 70 184 824: Cunku videoda menu olmuycak simdi animasyon yaparsam bu sefer videodan zaman yiycez
+15.07.2023 23:02 - +90 505 109 09 39: Tammam 👍
+16.07.2023 00:50 - +90 532 176 24 50: Ya yeni okuyabildim mesajları tam anlayamadım
+16.07.2023 00:50 - +90 532 176 24 50: @905369246361 benim attığım videoyu yapabildin mi
+16.07.2023 00:50 - +90 532 176 24 50: Şu an elimizde ne var
+16.07.2023 10:24 - Alperen ELMAS: Beyza senin için tekrar anlatacağım. Umut'un branşını kendime çektikten sonra henüz nedenini tespit edemediğim durumlardan dolayı branşımdaki dosyalar silindi. Birleştirme esnasında Safe Mode Ignore seçenekleri çıkmıştı. Çünkü compliation error vermişti. Ignore yapmaktan olabilir diye tahmin ediyorum. 2. ci olası neden ise dün ben bir ara GitDesktop'a girer girmez ben pull yapmadığım halde epey fazla bir dosya otomatik olarak bana çekildi bundan da olabilir belki. Sonuç olarak dün sabah saat 10-11 civarında yaptığım commite geri döndüm ancak Alperen-Yedek branş ismiyle döndüm.
+16.07.2023 10:25 - Alperen ELMAS: Sizin branşlarınızda sıkıntı yok. Ancak benim yeni isimli branşım dün saat 10-11'deki commitine döndü. Beyza ve Ege'ninkiler var. Umut'unkiler yok. <Bu mesaj düzenlendi>
+16.07.2023 10:26 - Alperen ELMAS: Görevi Umut'a devrettim. Melee unit yapınca Ranged unitle beraber kendi branşına pushlayacak. Bende 10 dklık bölüm yapcam. Ege'de ondan 1 dklık güzel bir video çıkaracak. <Bu mesaj düzenlendi>
+16.07.2023 10:26 - Alperen ELMAS: Zaten çıktı istenmiyor sadece GitHub ile video linki isteniyor. Yani Ege'nin videoda oluşturacağı algı önemli.
+16.07.2023 10:30 - Alperen ELMAS: Bundan sonra Alperen isimli branşa dokunmayın. Ancak Alperen-Yedek isimli branş güvenlidir.
+16.07.2023 10:36 - +90 532 176 24 50: Tamamdır ben kendi branchimde devam edicem çalışmaya son durumları haber veririm
+16.07.2023 10:37 - +90 532 176 24 50: Sağol bu arada açıklama için tekrar uğraştırdım seni
+16.07.2023 10:37 - Alperen ELMAS: Melee uniti Umut üstlendi. Sen ne yapacaksın peki? <Bu mesaj düzenlendi>
+16.07.2023 10:37 - +90 532 176 24 50: Ben videolardan devam yine diye düşündüm
+16.07.2023 10:38 - +90 532 176 24 50: Çalışan bi build istiyolar bildiğim kadarıyla
+16.07.2023 10:39 - Alperen ELMAS: İlk 14'e girdikten sonra zorunlu öncesinde değil. Bu arada melee uniti Umut üstlendi istersen onunla beraber yap. Videolardan devam edecem dedin ya o yüzden dedim.
+16.07.2023 10:40 - +90 532 176 24 50: @905423672102 desteğe ihtiyacın olursa haber ver
+16.07.2023 10:47 - +90 542 367 21 02: Tamamdır
+16.07.2023 15:31 - Alperen ELMAS: Umut eğer üstesinden gelemiyorsan sadece okçuyu gönder. Sadece onunla yapayım. Yok ben üstesinden gelebilirim diyorsan biraz acele etmelisin çünkü günün yarısı çoktan bitti bile.
+16.07.2023 15:48 - +90 542 367 21 02: Dostum deniyorum
+16.07.2023 15:48 - +90 542 367 21 02: Gece bitiririm galiba anca
+16.07.2023 16:03 - Alperen ELMAS: İstersen sadece okçuyu gönder çünkü son güne bırakmak riskli. Yarın GitHub'da sprint raporlarını tamamlayacağım. Ayrıca Ege'de 1 dakikalık video işini yapacak. Artı benim level design'da var. Ege'nin Intro videosu da vardı. (Gerçi o hazır.) Hepsini son gün yapamayız. Riskli olur.
+16.07.2023 16:19 - +386 70 184 824: Evet dogru ama yakin savas videosu da lazim
+16.07.2023 16:20 - +90 542 367 21 02: Evet biraz sıkıntı doğru siz nasıl isterseniz öyle yapayim
+16.07.2023 16:24 - Alperen ELMAS: Eğer yetiştirmek istiyorsak birşeylerden lazım olsa da ne yazıkki fedakarlık yapmamız gerekiyor. Umut sen okçuyu gönder (kendi branşına pushla). Bende level designa başlayım. Allah'tan tek dileğim umarım okçu pushlandıktan sonra sorunsuz bir biçimde çalışır.
+16.07.2023 16:26 - +90 542 367 21 02: Bi markete kadar gidiyorum gelip hemen pushlayacağım
+16.07.2023 16:26 - Alperen ELMAS: Tamam haber verirsin gönderince.
+16.07.2023 16:55 - +90 542 367 21 02: Pushladım
+16.07.2023 16:55 - +90 542 367 21 02: Son halini
+16.07.2023 16:57 - Alperen ELMAS: Tamamdır. Hemen çekiyorum.
+16.07.2023 17:40 - Alperen ELMAS: <Medya dahil edilmedi>
+16.07.2023 17:41 - +90 532 176 24 50: Kod hatası var diye uyarı vermiş
+16.07.2023 17:42 - Alperen ELMAS: Geçen seferde bu olmuştu zaten dosyalar silinmeden önce.
+16.07.2023 17:42 - +90 532 176 24 50: Errorları düzeltince geçmesi lazım
+16.07.2023 17:42 - +90 532 176 24 50: Hangi errorları vermiş
+16.07.2023 17:42 - +90 532 176 24 50: Safe mod da giriş yapsana bi
+16.07.2023 17:43 - Alperen ELMAS: Arkadaşlar geçen gün olan olay tekrar oldu dosyalar yine silinmiş. Safe moda girdim ama çıkmak zorunda kaldım.
+16.07.2023 17:43 - Alperen ELMAS: <Medya dahil edilmedi>
+16.07.2023 17:43 - Alperen ELMAS: Anlaşılan Umut'un branşı ile birleştirirken bir hata oluyor. Benim dosyaları siliyor. Ama geri alabilirim. Sıkıntı yok.
+16.07.2023 17:44 - +90 532 176 24 50: 40 tane çakısmayı duzeltirken silmis olabilir misin
+16.07.2023 17:44 - +90 532 176 24 50: Umutun branchine sahne eklense
+16.07.2023 17:44 - +90 532 176 24 50: Senin branchle birleştirmeyelim
+16.07.2023 17:44 - Alperen ELMAS: Yok silmedim hepsini dikkatli düzelttim. Ancak sistem birleştirirken kendi siliyor benimkileri. Belki onun commiti benimkinin önünde olduğu için olabilir? Bilmiyorum <Bu mesaj düzenlendi>
+16.07.2023 17:45 - +90 532 176 24 50: Umutun branchinin kopyasını yeni bi branch açıp ona çek
+16.07.2023 17:45 - +90 532 176 24 50: Sonra haritayı import et
+16.07.2023 17:45 - +90 532 176 24 50: Böyle sorun çıkmaz
+16.07.2023 17:46 - Alperen ELMAS: Tamam benimkini geçmişe alıp dediğini deneyecem.
+16.07.2023 17:46 - +90 542 367 21 02: Şimdi halledicem ben sen kendininkini geçmişe alsana bi Alperen
+16.07.2023 17:46 - +90 542 367 21 02: Benden sadece okçuyu çekicez zaten dimi
+16.07.2023 17:48 - +90 542 367 21 02: @905369246361 işin yoksa dc gelir misin
+16.07.2023 17:48 - Alperen ELMAS: Geri alır almaz geliyorum. Geri alayım haber verecem.
+16.07.2023 17:48 - +90 542 367 21 02: Tamamdır
+16.07.2023 17:53 - Alperen ELMAS: Alperen Son diye branş açtım. Geçmiş için.
+16.07.2023 17:53 - Alperen ELMAS: Bakayım şimdi geri yüklecek mi herşey.
+16.07.2023 17:53 - +90 542 367 21 02: Bakalım
+16.07.2023 18:01 - Alperen ELMAS: Tamam Alperen son branşı ismiyle düzeldi. Şimdi Umut'takileri zarara uğramadan bu branşa çekmem gerekiyor.
+16.07.2023 18:01 - +90 542 367 21 02: Gel abi dc
+16.07.2023 18:01 - Alperen ELMAS: Tamam.
+16.07.2023 18:06 - +90 542 367 21 02: <Medya dahil edilmedi>
+16.07.2023 18:41 - Alperen ELMAS: Arkadaşlar düşman konusunda Umut ile yeni branşa (Alperen Son) manuel olsa da düşmanı aktarabildik. Yarına kadar birşeyler çıkarıp yarın kendi branşıma iteceğim. Ege'de oradan güzel bir video çıkarır ve bu defteri kapatırız hayırlısı. <Bu mesaj düzenlendi>
+16.07.2023 19:50 - +90 505 109 09 39: @38670184824 musait misin bir sey soracaktim dc de
+16.07.2023 19:51 - +386 70 184 824: Evet geliyim
+16.07.2023 20:39 - Alperen ELMAS: Arkadaşlar yeni bir sorun çıktı. Bazı grafiklerin materyalleri ya da shaderleri pembe. URP'ye convert ettim. Shadergraph klasörünü Mainden kopyalayıp koydum. Yine de fayda etmedi.
+16.07.2023 20:39 - Alperen ELMAS: <Medya dahil edilmedi>
+16.07.2023 20:43 - Alperen ELMAS: Neyse Sun Temple'ı mainden kopyalayıp baştan çekecem artık.
+16.07.2023 20:45 - +90 505 109 09 39: Offf🤦‍♀️
+16.07.2023 20:46 - +90 505 109 09 39: @38670184824 bakabilir misin
+16.07.2023 20:46 - +386 70 184 824: Bakiyim
+16.07.2023 20:46 - +386 70 184 824: Neye bakicaz
+16.07.2023 20:46 - +90 505 109 09 39: Dc de son haline
+16.07.2023 21:04 - Alperen ELMAS: Mainden kopyaladım koydum yine de birşey değişmedi. Biraz daha kafa yoracam ama.
+16.07.2023 21:23 - Alperen ELMAS: Arkadaşlar Beyza'nın branşına girip öyle Unity'e girdim. Orada bile (benim ekranda) bozuk. Yoksa Beyza'nın branşından devam etmeyi düşünüyordum. Olayın sebebini hala çözemedim. Kendi branşıma dönüyorum.
+16.07.2023 21:27 - +90 532 176 24 50: maindeki sun temple dosyalarının hepsini locale çekip sun temple ın olmadığı ya da yeni bir branche pushlamayı deneyebilir misin
+16.07.2023 21:27 - +90 532 176 24 50: sonra umutun klasörünü de locale çekip aynı branche pushlarsın
+16.07.2023 21:28 - +90 532 176 24 50: ama umutta sun temple varsa o dosyaları alma
+16.07.2023 21:28 - Alperen ELMAS: İşte zaten Maindekileri locala çektip kopyalayıp kendi branşıma koydum. Birşey değişmemişti. Biraz daha düşüneyim. Olmadı dediğin gibi. <Bu mesaj düzenlendi>
+16.07.2023 21:29 - +90 532 176 24 50: tamamdır
+16.07.2023 21:30 - Alperen ELMAS: Arkadaşlar bizde kara büyü falan var bence. Cidden özel hayatınızda sizi kıskanan çekemeyen birileri falan mı var? Ne yapsak önümüze aksilik çıkıyor? Hiçbirşey asla doğru yürümüyor.
+16.07.2023 21:33 - Alperen ELMAS: Arkadaşlar bu arada main branşı üzerinden Unity'e girdim orada bile bende bozuk. Peki sizin bilgisayarlarda da durum aynı mı?
+16.07.2023 21:50 - +386 70 184 824: Yapma bee
+16.07.2023 21:50 - +386 70 184 824: :(
+16.07.2023 21:50 - Alperen ELMAS: Sende de aynı mı?
+16.07.2023 21:50 - +386 70 184 824: Bir videoluk sahne cikarabilseydik keske g
+16.07.2023 21:51 - +386 70 184 824: Ben farkli branchlerde calisiyorum
+16.07.2023 21:51 - Alperen ELMAS: Sende ekran nasıl? Pembeler var mı?
+16.07.2023 21:51 - +386 70 184 824: Bende yoktu ama
+16.07.2023 21:51 - +386 70 184 824: Yeni dosya cekmedim
+16.07.2023 21:52 - +386 70 184 824: Eski haliyle calisiyorum
+16.07.2023 21:52 - +90 532 176 24 50: Sun temple ı eklerken bi ayar yapmisti umut
+16.07.2023 21:53 - Alperen ELMAS: O ayar zaten maindekinde var.
+16.07.2023 21:54 - +90 532 176 24 50: Main de sadece sun temple kalicak sekilde dosyaları ayarlasak
+16.07.2023 21:54 - +90 532 176 24 50: Ben 1 saate bakıcam
+16.07.2023 21:55 - Alperen ELMAS: Arkadaşlar belki sadece bende vardır. GitDesktop'dan benim branşa geçip Unity'den baksana Beyza (müsait olunca). Eğer sende pembe yoksa reimport yapcam. <Bu mesaj düzenlendi>
+16.07.2023 22:05 - +90 532 176 24 50: Hangi sahne
+16.07.2023 22:05 - Alperen ELMAS: GameScene
+16.07.2023 22:05 - +90 532 176 24 50: Hangi alperen
+16.07.2023 22:05 - +90 532 176 24 50: Yedek mi son mu normal mi
+16.07.2023 22:05 - Alperen ELMAS: Alperen Son
+16.07.2023 22:11 - +90 532 176 24 50: Ağaçlar pembe
+16.07.2023 22:11 - Alperen ELMAS: Kendi branşında gir birde öyle denesene bi.
+16.07.2023 22:13 - +90 532 176 24 50: Aynı
+16.07.2023 22:13 - +90 532 176 24 50: Sadece ağaçlarda sıkıntı var
+16.07.2023 22:15 - Alperen ELMAS: Sadece ağaçlarda yok aslında bazı diğer texturelarda da var ama genelde agaçlar. Peki Ege sende de.şu an öyle mi? Bu arada şunu farkettim bazı branslar origin slashı ile başlıyor. Yani origine kim pushluyorsa aynı anda origin slashı ile başlayanların hepsine birden pushluyor olabilir. <Bu mesaj düzenlendi>
+16.07.2023 22:17 - Alperen ELMAS: Veya siilnmiş branclarda origin olabilir.
+16.07.2023 22:17 - +90 532 176 24 50: Sun temple ın kendi dosyasındaki demo scene de bile aynı
+16.07.2023 22:18 - Alperen ELMAS: İşte bende de öyle zaten. Ne yapacaz peki?
+16.07.2023 22:18 - Alperen ELMAS: Neden oldu acaba?
+16.07.2023 22:18 - +90 532 176 24 50: Tekrar import
+16.07.2023 22:18 - +90 532 176 24 50: Alırsak düzelir
+16.07.2023 22:18 - Alperen ELMAS: Bende reimport düşünüyorum.
+16.07.2023 22:19 - +90 532 176 24 50: Sun temple ı silip bence en baştan import edelim ve yorumdaki adımları yapalım
+16.07.2023 22:19 - Alperen ELMAS: Bi reimport deneyim olmazsa olur.
+16.07.2023 22:31 - Alperen ELMAS: Düzeldi. Ama 2 buçuk saatimi yedi.
+16.07.2023 22:32 - +90 505 109 09 39: Iyi bari yaa bi teslim edeydik sag salim
+16.07.2023 22:32 - +90 532 176 24 50: Kodlama böyle bir şey ya zamanla alışıyosun jdjdjdjsjd
+16.07.2023 22:46 - +386 70 184 824: Peki durum nedir suanda
+16.07.2023 22:46 - +386 70 184 824: Yarin 12ye kadar bana sahneler cikar mi
+16.07.2023 22:52 - +90 505 109 09 39: @38670184824 musait misin
+16.07.2023 22:52 - +90 505 109 09 39: Bir sey gosterecem dc ye gelebilir misin
+16.07.2023 22:53 - Alperen ELMAS: Kesin diyemem ama birşeyler yapmayı deneyecem.
+16.07.2023 22:53 - +386 70 184 824: Tabi ki
+16.07.2023 22:53 - +386 70 184 824: Geliyorum hemen
+17.07.2023 10:42 - Alperen ELMAS: Ege "Alperen Son" isimli branşına pushladım. Daha fazla değişiklik yapmayacağım. Sana buradan açıklamam gerekenler var. Birincisi bizim karakterin de ve düşmanın da zaten ölüm animasyonları konulmamış. Bu yüzden iki taraf için de ölme yok. Harita bizim başladığımız noktadan (yakın bir yer seçtim) bossun olduğu ana yere kadar 6-7 düşman koydum. R tuşunu açıp kılıcını çıkardıktan sonra düşmanlarla savaşıp video kaydı alabilirsin. Ek olarak Fatma:'nın UI ksımından da 10-15 saniye video kaydı al. 1 dakikalık videonun kalan kısmında da önceden yaptığın kendi intro videonuda kullan. Hepsinden toplamda 1 dakikalık video kolaylıkla çıkar. Bu arada S tuşuna basınca kamera titrediği için onu kaldırdım. Ancak A ve D tuşlarına basınca zaten rotasyon yapıldığı için karakter geri gidebiliyor. Son olarak Boss hartiada hala var ama açık değil. İstersen onu da açabilirsin. Video hazır olunca youtube linkini gönderirsin.
+17.07.2023 10:47 - Alperen ELMAS: NOT: Sahnemin İsmi: GameScene
+17.07.2023 10:54 - +386 70 184 824: Tamamdir eline saglik
+17.07.2023 10:54 - +386 70 184 824: Savas sahnesi var ama dimi
+17.07.2023 10:54 - +386 70 184 824: vurus falan
+17.07.2023 10:54 - +386 70 184 824: Bir de telifli sarki kullanmamda sorun olmaz bence youtube linki icin
+17.07.2023 11:00 - Alperen ELMAS: Düşman da saldırıyor sen de saldırabiliyorsun. İki taraf birbirine saldırdığı anda çekersin. Şarkı CC0 olsun.
+17.07.2023 11:01 - Alperen ELMAS: Bu arada senin kameranı kullanamadım çünkü uyumlu değildi. Ancak karakterin kendi kamerası var ve uyumlu çalışıyor. Senin kameranda var ama kapalıda.
+17.07.2023 11:02 - Alperen ELMAS: Mevcut olan kamerayı kullansan daha iyi olur bence.
+17.07.2023 11:02 - +90 532 176 24 50: Geri giderken mi titriyo kamera sadece
+17.07.2023 11:02 - Alperen ELMAS: Evet onu kapattım.
+17.07.2023 11:03 - +90 532 176 24 50: Colliderları çakışıyo olabilir
+17.07.2023 11:03 - +90 532 176 24 50: Mesafeyi ayarlasak düzelebilir belki
+17.07.2023 11:04 - +90 532 176 24 50: Game scene ile sahneyi yan yana açıp kontrol edebilir misin
+17.07.2023 11:04 - +90 532 176 24 50: Kameraya mı çarpıyo diye
+17.07.2023 11:05 - Alperen ELMAS: Tamam bir bakayım
+17.07.2023 11:09 - Alperen ELMAS: Yok cameranın colliderı yok zaten.
+17.07.2023 11:11 - +90 532 176 24 50: Kameranın kendisine çarpıyo  mu peki
+17.07.2023 11:11 - Alperen ELMAS: Yok çarpmıyor.
+17.07.2023 11:12 - Alperen ELMAS: Neyse zaten herşey video endeksli. Ege videoyu hallettiği zaman linki bizimle paylaşır. <Bu mesaj düzenlendi>
+17.07.2023 11:18 - +386 70 184 824: Arkadaslar
+17.07.2023 11:18 - +386 70 184 824: Telifsiz hosunuza giden muzik onerileri de atar misiniz
+17.07.2023 11:18 - +386 70 184 824: Simdi sinavdayim
+17.07.2023 11:18 - +386 70 184 824: Ise gider gitmez bakicam 30 dk icinde sinav var
+17.07.2023 11:29 - +90 505 109 09 39: Bu mesaj silindi
+17.07.2023 11:29 - +90 505 109 09 39: Bu mesaj silindi
+17.07.2023 11:58 - +90 532 176 24 50: https://assetstore.unity.com/packages/audio/ambient/sci-fi/synthwave-free-sessions-135370
+17.07.2023 11:58 - +90 532 176 24 50: https://assetstore.unity.com/packages/audio/ambient/sci-fi/just-tik-tok-214537
+17.07.2023 11:58 - +90 532 176 24 50: https://assetstore.unity.com/packages/audio/ambient/fantasy/warped-fantasy-music-pack-49914
+17.07.2023 12:03 - +90 532 176 24 50: https://assetstore.unity.com/packages/audio/music/casual-kingdom-world-sounds-free-136406
+17.07.2023 12:03 - +386 70 184 824: Youtube bakabilirsiniz
+17.07.2023 12:03 - +386 70 184 824: Bunlara da bakicam da opsiyon olarak diyorum
+17.07.2023 12:03 - +90 532 176 24 50: youtube linkleri var bazılarında
+17.07.2023 12:04 - +90 532 176 24 50: https://youtube.com/...
+17.07.2023 12:04 - +90 532 176 24 50: bu playlist iyi baya
+17.07.2023 12:49 - +386 70 184 824: Mainden mi cekiyim
+17.07.2023 12:49 - +386 70 184 824: Nereye pushladin @905369246361
+17.07.2023 12:49 - +386 70 184 824: Tamam sagol bakicam
+17.07.2023 12:53 - +90 542 367 21 02: Yarın değil mi son teslim
+17.07.2023 12:54 - +90 542 367 21 02: Ben bi can barı bide ölüm animleri yapim istiyorsanız
+17.07.2023 12:55 - +386 70 184 824: Ya yapabiliyorsan yap aslinda da
+17.07.2023 12:55 - +386 70 184 824: Ne zamana olur olum animasyonu
+17.07.2023 12:55 - +386 70 184 824: Benim bu geceye video cikartmam lazim
+17.07.2023 13:02 - +90 505 109 09 39: Yarin oglen 12 :(
+17.07.2023 13:07 - Alperen ELMAS: Alperen Son branşına ittim. GameScene isimli sahne. <Bu mesaj düzenlendi>
+17.07.2023 13:11 - +386 70 184 824: Arada bosluk mu biraktin
+17.07.2023 13:11 - +386 70 184 824: Cok sikintili o bosluk ya linux kodlama sistemli bir sey kullaniyorum
+17.07.2023 13:11 - +386 70 184 824: alpalpalp diye bir branche atar misin
+17.07.2023 13:17 - Alperen ELMAS: boşluk yok Alperen-Son diye geçiyor.
