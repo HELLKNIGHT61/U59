@@ -148,7 +148,7 @@ Alınan kararlar: Harita tamamlanmıştır. Ana karakterin animasyonları ve mek
 
 - **Sprint Retrospective:**
 
-  - Hedeflenen projenin beklenenden daha zor (meşakkatli) çıkması ve takım üyelerinin özel hayatlarındaki istenmeyen aksilikler ile teknik aksaklıklar nedeniyle proje sadece prototip düzeyde geliştirilebilmiştir. Ancak bu durum gelecekte de geliştirilebileceği (devam ettirilebileceği) anlamını taşımaktadır.
+  - Hedeflenen projenin beklenenden daha zor (meşakkatli) çıkması ve takım üyelerinin özel hayatlarındaki istenmeyen aksilikler ile teknik aksaklıklar nedeniyle proje sadece prototip düzeyde geliştirilebilmiştir. Ancak bu durum bootcamp sonuçlandıktan sonra gelecekte de geliştirilebileceği (devam ettirilebileceği) anlamını taşımaktadır.
   - Unity oyun motorunun gerçekten ağır ve kompleks bir motor olduğu bu nedenle disiplinli ve zamanlı çalışmanın şart olduğu bir kez daha anlaşılmıştır.
 
 
