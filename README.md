@@ -118,3 +118,38 @@ Alınan kararlar: Harita tasarımı netleştirilmiş ve büyük ölçüde tamaml
 [Unity Team 59 Miro Backlog Board](https://miro.com/app/board/uXjVM9k88dc=/?share_link_id=49433068584)
 
 ---
+
+# Sprint 3
+
+- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde üçüncü sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+
+
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı txt olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 3 Daily Scrum Chats](https://github.com/HELLKNIGHT61/U59/blob/main/ProjectManagement/Sprint3Documents/DailyScrumMeetingNotesSprint3.txt)
+
+- **Sprint board update**: Sprint board screenshotları: 
+![Backlog 1](https://github.com/HELLKNIGHT61/U59/blob/main/ProjectManagement/Sprint3Documents/backlog1.png) 
+
+
+- **Ürün Durumu**: Ekran görüntüleri:
+  ![Screenshot 1](https://github.com/HELLKNIGHT61/U59/blob/main/ProjectManagement/Sprint3Documents/product1.png)
+  ![Screenshot 2](https://github.com/HELLKNIGHT61/U59/blob/main/ProjectManagement/Sprint3Documents/product2.png)
+  ![Screenshot 3](https://github.com/HELLKNIGHT61/U59/blob/main/ProjectManagement/Sprint3Documents/product3.png)
+
+
+- **Sprint Review**: 
+Alınan kararlar: Harita tamamlanmıştır. Ana karakterin animasyonları ve mekanikleri oluşturulmuştur. UI tamamlanmıştır. Prototip bir boss oyuna konmuştur. 1 tane düşman çeşidi animasyonları ve mekanikleri ile beraber eklenmiştir. Savaş mekanikleri kısmen tamamlanmıştır. Oyun içi Intro ara sahnesi ekelnmiştir. Prototip bir bölüm tasarlanmıştır. Projenın grafikleri görsel açından oldukça çekici bulunmuştur.
+
+
+- **Sprint Retrospective:**
+
+  - Hedeflenen projenin beklenenden daha zor (meşakkatli) çıkması ve takım üyelerinin özel hayatlarındaki istenmeyen aksilikler ile teknik aksaklıklar nedeniyle proje sadece prototip düzeyde geliştirilebilmiştir. Ancak bu durum gelecekte de geliştirebileceği (devam ettirebileceği) anlamını taşımaktadır.
+  - Unity oyun motorunun gerçekten ağır ve kompleks bir motor olduğu bu nedenle disiplinli ve zamanlı çalışmanın şart olduğu bir kez daha anlaşılmıştır.
+
+
+---
