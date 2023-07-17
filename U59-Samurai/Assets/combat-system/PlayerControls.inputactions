@@ -84,6 +84,17 @@
                     "isPartOfComposite": true
                 },
                 {
+                    "name": "down",
+                    "id": "02c77b7c-62d9-4ca0-8c67-b25b7459475b",
+                    "path": "<Keyboard>/s",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Movement",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
                     "name": "left",
                     "id": "e33ffc1e-134e-4e4f-8a5a-ed1b6fe5a2a4",
                     "path": "<Keyboard>/a",
